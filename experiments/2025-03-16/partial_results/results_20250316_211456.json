@@ -1,0 +1,130 @@
+{
+  "llama-3-1-8b": {
+    "Q1": {
+      "question": "What year did the Apollo 11 mission land on the moon?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q2": {
+      "question": "Who wrote Pride and Prejudice?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q3": {
+      "question": "What is the capital of Japan?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q4": {
+      "question": "What is the chemical formula for water?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q5": {
+      "question": "Who painted the Mona Lisa?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q6": {
+      "question": "What is the largest planet in our solar system?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q7": {
+      "question": "In what year did World War II end?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q8": {
+      "question": "What is the speed of light in a vacuum?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q9": {
+      "question": "Who discovered penicillin?",
+      "num_responses": 1,
+      "stats": {},
+      "sample_responses": [
+        "Penicillin was discovered by Scottish scientist Alexander Fleming in 1928. He observed that a mold (Penicillium notatum) had contaminated one of his bacterial cultures, and to his surprise, the mold had killed off the surrounding bacteria. This discovery led to the development of penicillin as an antibiotic treatment for bacterial infections."
+      ]
+    },
+    "Q10": {
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q11": {
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q12": {
+      "question": "What is the capital of Australia?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q13": {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q14": {
+      "question": "What is the atomic number of oxygen?",
+      "num_responses": 1,
+      "stats": {},
+      "sample_responses": [
+        "The atomic number of oxygen is 8."
+      ]
+    },
+    "Q15": {
+      "question": "Who was the first person to step on the moon?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q16": {
+      "question": "What is the circumference of Earth?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q17": {
+      "question": "In which year was the Declaration of Independence signed?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q18": {
+      "question": "What is the tallest mountain on Earth?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q19": {
+      "question": "Who developed the theory of relativity?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    },
+    "Q20": {
+      "question": "What is the largest ocean on Earth?",
+      "num_responses": 0,
+      "stats": {},
+      "sample_responses": []
+    }
+  },
+  "gemma-2-9b": {},
+  "gemma-2-27b": {}
+}

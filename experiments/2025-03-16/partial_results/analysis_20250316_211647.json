@@ -1,0 +1,87 @@
+{
+  "experiment_duration": "0:00:34.080442",
+  "model_comparison": {},
+  "per_question_analysis": {
+    "Q1": {
+      "question": "What year did the Apollo 11 mission land on the moon?",
+      "model_stats": {}
+    },
+    "Q2": {
+      "question": "Who wrote Pride and Prejudice?",
+      "model_stats": {}
+    },
+    "Q3": {
+      "question": "What is the capital of Japan?",
+      "model_stats": {}
+    },
+    "Q4": {
+      "question": "What is the chemical formula for water?",
+      "model_stats": {}
+    },
+    "Q5": {
+      "question": "Who painted the Mona Lisa?",
+      "model_stats": {}
+    },
+    "Q6": {
+      "question": "What is the largest planet in our solar system?",
+      "model_stats": {}
+    },
+    "Q7": {
+      "question": "In what year did World War II end?",
+      "model_stats": {}
+    },
+    "Q8": {
+      "question": "What is the speed of light in a vacuum?",
+      "model_stats": {}
+    },
+    "Q9": {
+      "question": "Who discovered penicillin?",
+      "model_stats": {}
+    },
+    "Q10": {
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "model_stats": {}
+    },
+    "Q11": {
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "model_stats": {}
+    },
+    "Q12": {
+      "question": "What is the capital of Australia?",
+      "model_stats": {}
+    },
+    "Q13": {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "model_stats": {}
+    },
+    "Q14": {
+      "question": "What is the atomic number of oxygen?",
+      "model_stats": {}
+    },
+    "Q15": {
+      "question": "Who was the first person to step on the moon?",
+      "model_stats": {}
+    },
+    "Q16": {
+      "question": "What is the circumference of Earth?",
+      "model_stats": {}
+    },
+    "Q17": {
+      "question": "In which year was the Declaration of Independence signed?",
+      "model_stats": {}
+    },
+    "Q18": {
+      "question": "What is the tallest mountain on Earth?",
+      "model_stats": {}
+    },
+    "Q19": {
+      "question": "Who developed the theory of relativity?",
+      "model_stats": {}
+    },
+    "Q20": {
+      "question": "What is the largest ocean on Earth?",
+      "model_stats": {}
+    }
+  },
+  "high_deviation_questions": []
+}

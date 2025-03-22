@@ -1,0 +1,1628 @@
+{
+  "llama-3-1-8b": {
+    "Q1": [
+      {
+        "repeat": 1,
+        "response": "The Apollo 11 mission successfully landed on the moon in 1969. The specific date was July 20, 1969.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The Apollo 11 mission successfully landed on the moon on July 20, 1969. Neil Armstrong became the first person to set foot on the lunar surface when he stepped out of the lunar module Eagle at 2:56 UTC on July 21, 1969.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "A historic moment in space exploration!\n\nThe Apollo 11 mission successfully landed on the moon on July 20, 1969. Specifically, the Lunar Module Eagle, piloted by Neil Armstrong and Edwin \"Buzz\" Aldrin, touched down on the moon's surface in the Sea of Tranquility (also known as Mare Serenitatis) at 20:17 UTC on that day.\n\nNeil Armstrong famously stepped out of the lunar module and became the first person to set foot on the moon, declaring \"That's one small step for man, one giant leap for mankind\" as he took his historic first steps!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The Apollo 11 mission successfully landed on the moon on July 20, 1969. Specifically, Neil Armstrong became the first person to set foot on the lunar surface at 2:56 UTC on July 21, 1969.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "A historic question!\n\nThe Apollo 11 mission successfully landed on the moon on July 20, 1969. Specifically, astronaut Neil Armstrong stepped out of the lunar module Eagle and became the first person to set foot on the moon's surface at 2:56 UTC (Coordinated Universal Time) on July 21, 1969.",
+        "has_embedding": true
+      }
+    ],
+    "Q2": [
+      {
+        "repeat": 1,
+        "response": "Pride and Prejudice was written by the renowned English novelist Jane Austen. It is one of her most famous works, published in 1813, and remains a beloved classic romance novel to this day!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "Pride and Prejudice was written by the English novelist Jane Austen. It is one of her most famous works, first published in 1813 and considered a classic of English literature.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "A classic question!\n\nThe answer is Jane Austen. She wrote the novel \"Pride and Prejudice\", which was first published in 1813. It's one of her most famous works and a timeless romance about Elizabeth Bennet and Mr. Darcy that has captured readers' hearts for centuries!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "Pride and Prejudice was written by the English novelist Jane Austen (1775-1817). It's one of her most famous works, first published in 1813. The novel follows the lives of the Bennett sisters, particularly Elizabeth and her tumultuous relationship with the wealthy Mr. Darcy. Would you like to know more about the book or its author?",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "Pride and Prejudice was written by the English novelist Jane Austen (1775-1817). It is one of her most famous works and a classic romance novel that has been widely read and loved for over two centuries. Published in 1813, it tells the story of Elizabeth Bennet and Mr. Darcy's tumultuous relationship and their journey to love and understanding. Would you like to know more about Jane Austen or her other works?",
+        "has_embedding": true
+      }
+    ],
+    "Q3": [
+      {
+        "repeat": 1,
+        "response": "The capital of Japan is Tokyo.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The capital of Japan is Tokyo.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The capital of Japan is Tokyo.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The capital of Japan is Tokyo.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The capital of Japan is Tokyo.",
+        "has_embedding": true
+      }
+    ],
+    "Q4": [
+      {
+        "repeat": 1,
+        "response": "The chemical formula for water is H\u2082O.\n\nThis means that one molecule of water consists of two hydrogen atoms (H) bonded to a single oxygen atom (O).",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The chemical formula for water is H2O. This means that one molecule of water consists of two hydrogen atoms (H) and one oxygen atom (O).",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The chemical formula for water is H2O.\n\nThis means that one molecule of water consists of two hydrogen atoms (H) bonded to a single oxygen atom (O).",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The chemical formula for water is H2O.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The chemical formula for water is H2O.\n\nIt's a simple formula, but it's an essential one! Water is made up of two hydrogen atoms (H) bonded to one oxygen atom (O).",
+        "has_embedding": true
+      }
+    ],
+    "Q5": [
+      {
+        "repeat": 1,
+        "response": "The Mona Lisa was painted by the Italian artist Leonardo da Vinci, a renowned polymath and one of the most famous artists of all time. Specifically, he worked on the painting between 1503 and 1506 during the Italian Renaissance.\n\nLeonardo da Vinci's enigmatic portrait of Lisa del Giocondo (the subject of the painting) is widely considered to be one of the greatest paintings of all time, known for its incredible level of detail, realism, and masterful use of sfumato technique. It's a true masterpiece that continues to fascinate art lovers to this day!\n\nWould you like to know more about Leonardo da Vinci or his artistic techniques?",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The Mona Lisa was painted by the Italian artist Leonardo da Vinci, specifically during the early 16th century. It's one of his most famous works and is widely considered to be one of the greatest paintings of all time!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The Mona Lisa was painted by the renowned Italian artist Leonardo da Vinci. He is widely considered one of the greatest painters of all time, and the Mona Lisa is arguably his most famous work. The painting, created in the early 16th century (around 1503-1506), is a portrait of a woman thought to be Lisa Gherardini, the wife of a wealthy merchant named Francesco del Giocondo. The enigmatic smile and masterful use of sfumato technique have made the Mona Lisa one of the most iconic paintings in history!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The Mona Lisa was painted by the Italian artist Leonardo da Vinci.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The Mona Lisa was painted by the Italian artist Leonardo da Vinci, a renowned polymath and one of the most famous painters in history. He created the enigmatic portrait in the early 16th century, specifically between 1503 and 1506, during the Italian Renaissance. The painting is widely considered to be one of the greatest works of art ever made, known for its incredible level of detail, subtlety, and mystery.\n\nWould you like to know more about Leonardo da Vinci or his famous artwork?",
+        "has_embedding": true
+      }
+    ],
+    "Q6": [
+      {
+        "repeat": 1,
+        "response": "The largest planet in our solar system is Jupiter.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The largest planet in our solar system is Jupiter. It is a gas giant, meaning it's primarily composed of hydrogen and helium gases. Jupiter has a diameter of approximately 142,984 kilometers (88,846 miles), which is more than 11 times the diameter of Earth!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The largest planet in our solar system is Jupiter. It has a diameter of approximately 142,984 kilometers (88,846 miles).",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The largest planet in our solar system is Jupiter.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The largest planet in our solar system is Jupiter. It has a diameter of approximately 142,984 kilometers (88,846 miles).",
+        "has_embedding": true
+      }
+    ],
+    "Q7": [
+      {
+        "repeat": 1,
+        "response": "World War II ended in 1945. The exact dates of the end are:\n\n* In Europe: May 8, 1945 (V-E Day, or Victory in Europe Day)\n* In the Pacific: September 2, 1945 (Japanese Instrument of Surrender ceremony on board USS Missouri in Tokyo Bay)\n\nSo, it's often said that World War II ended on September 2, 1945, but May 8 is also a significant date.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "World War II ended in two stages:\n\n* In Europe: May 8, 1945 - This date is known as V-E Day (Victory in Europe Day) and marks the official end of World War II in Europe. Germany surrendered to the Allied Powers on this day.\n* In the Pacific: August 15, 1945 - This date is known as V-J Day (Victory over Japan Day) and marks the official end of World War II with the surrender of Japan following the atomic bombings of Hiroshima and Nagasaki.\n\nSo, while there isn't a single year that marks the end of World War II globally, May 8, 1945, is often considered the date when the war in Europe came to an end, and August 15, 1945, is the date when the war in the Pacific ended.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "World War II ended in 1945. Specifically, it officially ended on September 2, 1945, when Japan formally surrendered to the Allied Powers on board the USS Missouri in Tokyo Bay, Japan. This event is known as V-J Day (Victory over Japan Day).\n\nHowever, the war in Europe had already ended earlier, on May 8, 1945, with the formal surrender of Germany, which is celebrated as V-E Day (Victory in Europe Day).",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "World War II officially ended on September 2, 1945, when Japan formally surrendered to the Allied Powers on board the USS Missouri in Tokyo Bay, Japan. This event is known as V-J Day (Victory over Japan Day). However, the war in Europe had already ended earlier, on May 8, 1945, with the formal surrender of Germany and the signing of the German Instrument of Surrender at Reims, France.\n\nSo, to be precise:\n\n* The end of World War II in Europe: May 8, 1945 (V-E Day - Victory in Europe Day)\n* The end of World War II globally: September 2, 1945 (V-J Day)",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "World War II ended in 1945. Specifically, it ended on:\n\n* September 2, 1945: Japan formally surrendered to the Allied Powers on board the USS Missouri in Tokyo Bay, Japan, marking the official end of World War II.\n* May 8, 1945 (V-E Day): Germany unconditionally surrendered to the Allies, ending the war in Europe.\n\nI hope that helps!",
+        "has_embedding": true
+      }
+    ],
+    "Q8": [
+      {
+        "repeat": 1,
+        "response": "The speed of light in a vacuum is approximately 299,792,458 meters per second (m/s). This value is widely accepted as a fundamental constant in physics and is denoted by the letter c.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The speed of light in a vacuum is approximately 299,792,458 meters per second (m/s) or about 186,282 miles per second. This speed is denoted by the letter c and is one of the fundamental physical constants in the universe.\n\nIt's worth noting that this value can be expressed with even more precision, but for most purposes, 299,792,458 m/s is a commonly used approximation.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The speed of light in a vacuum is approximately 299,792,458 meters per second (m/s) or about 186,282 miles per second.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The speed of light in a vacuum is approximately 299,792 kilometers per second (km/s) or about 186,282 miles per second (mi/s). This value is often rounded to 300,000 km/s or 186,000 mi/s for simplicity.\n\nTo be more precise, the speed of light in a vacuum is exactly:\n\nc = 299,792,458 meters per second (m/s)\n\nThis speed has been measured with incredible precision using various methods and experiments over the years, including atomic clocks and interferometry. It's considered one of the most well-established constants in physics!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The speed of light in a vacuum is approximately 299,792 kilometers per second (km/s) or about 186,282 miles per second. This is denoted by the letter c and is one of the fundamental constants of physics.\n\nc = 299,792,458 m/s",
+        "has_embedding": true
+      }
+    ],
+    "Q9": [
+      {
+        "repeat": 1,
+        "response": "Penicillin was discovered by Scottish scientist Alexander Fleming in 1928. He accidentally left a petri dish of bacteria uncovered, and when he returned to his laboratory, he noticed that a mold (later identified as Penicillium notatum) had contaminated the dish. The mold had killed off the surrounding bacteria, which led Fleming to isolate the substance responsible for this effect, which he called penicillin.\n\nFleming's discovery of penicillin revolutionized the treatment of bacterial infections and saved countless lives. He is often referred to as the \"father of modern medicine\" or the discoverer of penicillin.\n\nIt's worth noting that while Fleming discovered penicillin, it was Australian scientists Howard Florey and Ernst Chain who developed a method for mass-producing penicillin in 1941, making it available for widespread use.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "Penicillin was discovered by Scottish scientist Alexander Fleming in 1928. He observed that a mold (Penicillium notatum) had contaminated one of his bacterial cultures, and he noticed that the area around the mold was clear of bacteria, suggesting that the mold produced a substance with antibacterial properties.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "Penicillin was discovered by Scottish scientist Alexander Fleming in 1928. He observed that a mold (Penicillium notatum) had contaminated one of his bacterial cultures and had killed off the surrounding bacteria.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "Penicillin was discovered by Scottish scientist Alexander Fleming in 1928. He observed that a mold (Penicillium notatum) had contaminated one of his bacterial cultures, and to his surprise, the mold had killed off the surrounding bacteria.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "Penicillin was discovered by Scottish scientist Alexander Fleming in 1928. He observed that a mold (Penicillium notatum) had contaminated one of his bacterial cultures, and that the mold had killed off the surrounding bacteria. This discovery led to the development of penicillin as an antibiotic, revolutionizing the treatment of bacterial infections.",
+        "has_embedding": true
+      }
+    ],
+    "Q10": [
+      {
+        "repeat": 1,
+        "response": "The boiling point of water at sea level is 100 degrees Celsius (\u00b0C).",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The boiling point of water at sea level is 100\u00b0C.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The boiling point of water at sea level is 100\u00b0C (or 212\u00b0F).",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The boiling point of water at sea level is 100 degrees Celsius.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The boiling point of water at sea level in Celsius is 100\u00b0C.",
+        "has_embedding": true
+      }
+    ],
+    "Q11": [
+      {
+        "repeat": 1,
+        "response": "Marie Curie was the first woman to win a Nobel Prize. She won two, actually - one in Physics in 1903 and another in Chemistry in 1911.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The first woman to win a Nobel Prize was Marie Curie, who won the Nobel Prize in Physics in 1903, along with her husband Pierre Curie and Henri Becquerel. They were awarded for their pioneering work on radioactivity.\n\nHowever, it's worth noting that Marie Curie went on to make history again by becoming the first person to win two Nobel Prizes in different fields: she also won the Nobel Prize in Chemistry in 1911, making her the only person to have ever achieved this distinction.\n\nMarie Curie was a trailblazer not just for women in science, but also for her groundbreaking research on radioactivity and its applications.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The first woman to win a Nobel Prize was Marie Curie, who won the Nobel Prize in Physics in 1903. She shared the award with her husband Pierre Curie and Henri Becquerel for their pioneering work on radioactivity.\n\nHowever, if you're thinking of a Nobel Peace Prize winner, the first woman to receive one was Bertha von Suttner, an Austrian pacifist writer, who won the prize in 1905. She was awarded the Nobel Peace Prize for her efforts to promote international peace and disarmament.\n\nMarie Curie went on to win another Nobel Prize in Chemistry in 1911, becoming the first person to win two Nobel Prizes in different fields!\n\nWould you like to know more about these incredible women or their achievements?",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The first woman to win a Nobel Prize was Marie Curie, who won the Nobel Prize in Physics in 1903. She shared this award with her husband Pierre Curie and Henri Becquerel for their pioneering work on radioactivity.\n\nHowever, if you're asking about the first woman to win an unshared Nobel Prize (i.e., not sharing it with others), that distinction belongs to Marie Curie's daughter, Ir\u00e8ne Joliot-Curie. She won the Nobel Prize in Chemistry in 1935 for her research on radioactive elements and their application in chemistry.\n\nBut, if you're asking about a woman winning an individual Nobel Prize in any category (Physics, Chemistry, Medicine, Literature, Peace, or Economics), then the answer is Marie Curie herself! She was awarded the Nobel Prize in Chemistry in 1911, making her the first woman to win two Nobel Prizes and the first person to win individual Nobel Prizes in different fields.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The first woman to win a Nobel Prize was Marie Curie, who was awarded the Nobel Prize in Physics in 1903, along with her husband Pierre Curie and Henri Becquerel, for their pioneering work on radioactivity.",
+        "has_embedding": true
+      }
+    ],
+    "Q12": [
+      {
+        "repeat": 1,
+        "response": "The capital of Australia is Canberra.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The capital of Australia is Canberra.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The capital of Australia is Canberra.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The capital of Australia is Canberra.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The capital of Australia is Canberra.",
+        "has_embedding": true
+      }
+    ],
+    "Q13": [
+      {
+        "repeat": 1,
+        "response": "The tragic play \"Romeo and Juliet\" was written by the renowned English playwright William Shakespeare. It is one of his most famous plays and a classic tale of star-crossed lovers that has been retold and adapted countless times over the centuries.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "A classic question!\n\nThe tragic play \"Romeo and Juliet\" was written by the renowned English playwright William Shakespeare, around 1595-1596. It is one of his most famous works and a timeless tale of love, passion, and fate that has been widely performed and adapted for centuries.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "'Romeo and Juliet' is a tragedy written by William Shakespeare, an English playwright and poet.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The tragic play 'Romeo and Juliet' was written by the renowned English playwright William Shakespeare. It is one of his most famous works, first performed around 1595-1596 and published in 1597.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The tragic love story 'Romeo and Juliet' was written by the renowned English playwright William Shakespeare. It's one of his most famous works and a classic tale of star-crossed lovers from feuding families in Verona, Italy.",
+        "has_embedding": true
+      }
+    ],
+    "Q14": [
+      {
+        "repeat": 1,
+        "response": "The atomic number of oxygen is 8.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The atomic number of oxygen is 8.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The atomic number of oxygen is 8.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The atomic number of oxygen is 8.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The atomic number of oxygen is 8.",
+        "has_embedding": true
+      }
+    ],
+    "Q15": [
+      {
+        "repeat": 1,
+        "response": "The first person to step on the moon was Neil Armstrong, an American astronaut who landed on July 20, 1969 as part of the Apollo 11 mission. Armstrong stepped out of the lunar module Eagle and onto the moon's surface at 2:56 UTC on July 21, famously declaring \"That's one small step for man, one giant leap for mankind\" as he took his first steps.\n\nArmstrong was followed by fellow astronaut Edwin \"Buzz\" Aldrin, who also walked on the moon during the mission. They spent a total of about two and a half hours outside the lunar module, collecting samples and conducting experiments.\n\nIt's worth noting that Armstrong's famous phrase has been slightly misquoted over time - the actual quote is \"That's one small step for a man, one giant leap for mankind.\" The word \"a\" was added to the original quote in many subsequent retellings, but it's interesting to see the slight difference!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The first person to set foot on the moon was Neil Armstrong, an American astronaut and commander of the Apollo 11 mission. He stepped onto the lunar surface on July 20, 1969, at 2:56 UTC (Coordinated Universal Time) on July 21, 1969.\n\nArmstrong famously declared, \"That's one small step for man, one giant leap for mankind,\" as he became the first human to walk on the moon. He was followed by fellow astronaut Edwin \"Buzz\" Aldrin shortly after.\n\nWould you like to know more about the Apollo 11 mission or Neil Armstrong?",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The first person to set foot on the moon was Neil Armstrong. He stepped out of the lunar module Eagle and onto the moon's surface on July 20, 1969 as part of the Apollo 11 mission. His famous words upon stepping onto the moon were: \"That's one small step for man, one giant leap for mankind.\"",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "Neil Armstrong was the first person to set foot on the moon, which he did on July 20, 1969.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The first person to set foot on the moon was Neil Armstrong, an American astronaut and commander of the Apollo 11 mission. He stepped out of the lunar module Eagle onto the moon's surface on July 20, 1969. His famous words upon taking his first steps were: \"That's one small step for man, one giant leap for mankind.\"",
+        "has_embedding": true
+      }
+    ],
+    "Q16": [
+      {
+        "repeat": 1,
+        "response": "The Earth's circumference is approximately 40,075 kilometers (24,901 miles). This is also known as the equatorial circumference, which means it's measured around the middle of the planet. If you're wondering about the polar circumference, that's a bit shorter at about 40,008 kilometers (24,860 miles).\n\nWould you like to know more about the Earth's dimensions or something else?",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The circumference of the Earth at the equator is approximately 40,075 kilometers (24,901 miles).",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The circumference of the Earth is approximately 40,075 kilometers (24,901 miles) at the equator.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The circumference of the Earth is approximately 40,075 kilometers (24,901 miles) at the equator.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The circumference of the Earth varies slightly due to its slightly ellipsoidal shape, but I'll give you an average value.\n\nAt the equator, the circumference of the Earth is approximately 40,075 kilometers (24,901 miles).\n\nHowever, if we consider the meridian (the path that runs from the North Pole to the South Pole), the circumference would be about 40,008 kilometers (24,860 miles).",
+        "has_embedding": true
+      }
+    ],
+    "Q17": [
+      {
+        "repeat": 1,
+        "response": "The Declaration of Independence was signed on August 2, 1776. However, the document itself was adopted by the Continental Congress on July 4, 1776, which is why we celebrate Independence Day on that date!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The Declaration of Independence was signed in 1776.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The Declaration of Independence was signed in 1776. Specifically, it was adopted by the Continental Congress on July 4, 1776, and the document itself was signed by 56 individuals between August 2 and November 4 of that year.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The Declaration of Independence was signed in the year 1776.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The Declaration of Independence was signed in 1776.",
+        "has_embedding": true
+      }
+    ],
+    "Q18": [
+      {
+        "repeat": 1,
+        "response": "The tallest mountain on Earth is Mount Everest, which is part of the Himalayas. It stands at a height of 8,848 meters (29,029 feet) above sea level.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The tallest mountain on Earth is Mount Everest, which is part of the Himalayas in Asia. It stands at an elevation of 8,848 meters (29,029 feet) above sea level.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The tallest mountain on Earth is Mount Everest, which is located in the Himalayas on the border between Nepal and Tibet, China. Its peak elevation is 8,848 meters (29,029 feet) above sea level.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The tallest mountain on Earth is Mount Everest, which is part of the Himalayas in the border region between Nepal and Tibet, China. It stands at a height of 8,848 meters (29,029 feet) above sea level.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The tallest mountain on Earth is Mount Everest, located in the Himalayas on the border between Nepal and Tibet, China. It stands at an incredible height of 8,848.86 meters (29,031.7 feet) above sea level.",
+        "has_embedding": true
+      }
+    ],
+    "Q19": [
+      {
+        "repeat": 1,
+        "response": "Albert Einstein developed the theory of relativity.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "Albert Einstein developed the theory of relativity.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "Albert Einstein developed the theory of relativity.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The theory of relativity was developed by Albert Einstein.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "Albert Einstein developed the theory of relativity.",
+        "has_embedding": true
+      }
+    ],
+    "Q20": [
+      {
+        "repeat": 1,
+        "response": "The largest ocean on Earth is the Pacific Ocean. It covers an area of approximately 155.6 million square kilometers (60.1 million square miles) and accounts for about 46% of the Earth's total ocean area.\n\nThe Pacific Ocean is also the deepest ocean, with a maximum depth of approximately 11,022 meters (36,198 feet), found in the Mariana Trench.\n\nWould you like to know more about the Pacific Ocean or its features?",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The largest ocean on Earth is the Pacific Ocean, covering an area of approximately 155.6 million square kilometers (60.1 million square miles) and accounting for about 46% of the Earth's total water surface.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The largest ocean on Earth is the Pacific Ocean. It covers an area of approximately 155.6 million square kilometers (60.1 million square miles) and accounts for about 46% of the Earth's total ocean area. The Pacific Ocean is also the deepest ocean, with its lowest point being the Mariana Trench, which has a depth of about 11,000 meters (36,000 feet).",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The largest ocean on Earth is the Pacific Ocean, covering an area of approximately 155.6 million square kilometers (60.1 million square miles) and accounting for about 46% of the Earth's total water surface.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The largest ocean on Earth is the Pacific Ocean, covering an area of approximately 155.6 million square kilometers (60.1 million square miles). It accounts for about 46% of the Earth's total ocean area and contains more than 25,000 islands.",
+        "has_embedding": true
+      }
+    ]
+  },
+  "gemma-2-9b": {
+    "Q1": [
+      {
+        "repeat": 1,
+        "response": "The Apollo 11 mission landed on the moon in **1969**.  \n\nSpecifically, it landed on **July 20, 1969**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The Apollo 11 mission landed on the moon in **1969**.  \n\nSpecifically, it landed on July 20, 1969.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The Apollo 11 mission landed on the moon in **1969**.  \n\nSpecifically, it landed on **July 20, 1969**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The Apollo 11 mission landed on the moon in **1969**.  \n\nSpecifically, it landed on **July 20, 1969**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The Apollo 11 mission landed on the moon in **1969**.  \n\nSpecifically, it was on **July 20, 1969**.",
+        "has_embedding": true
+      }
+    ],
+    "Q2": [
+      {
+        "repeat": 1,
+        "response": "Pride and Prejudice was written by **Jane Austen**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "Pride and Prejudice was written by **Jane Austen**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "Pride and Prejudice was written by **Jane Austen**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "Pride and Prejudice was written by **Jane Austen**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "Pride and Prejudice was written by **Jane Austen**.",
+        "has_embedding": true
+      }
+    ],
+    "Q3": [
+      {
+        "repeat": 1,
+        "response": "The capital of Japan is **Tokyo**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The capital of Japan is **Tokyo**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The capital of Japan is **Tokyo**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The capital of Japan is **Tokyo**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": ": The capital of Japan is **Tokyo**.",
+        "has_embedding": true
+      }
+    ],
+    "Q4": [
+      {
+        "repeat": 1,
+        "response": "The chemical formula for water is **H\u2082O**. \n\nThis means that each molecule of water is composed of:\n\n* **2 atoms of Hydrogen (H)**\n* **1 atom of Oxygen (O)**",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The chemical formula for water is **H\u2082O**. \n\nThis means that each molecule of water is composed of:\n\n* **2 atoms of hydrogen (H)**\n* **1 atom of oxygen (O)**",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The chemical formula for water is **H\u2082O**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The chemical formula for water is **H\u2082O**. \n\nThis means each molecule of water consists of:\n\n* **2 atoms of Hydrogen (H)**\n* **1 atom of Oxygen (O)**",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The chemical formula for water is **H\u2082O**. \n\nThis means each molecule of water consists of:\n\n* **2 atoms of Hydrogen (H)**\n* **1 atom of Oxygen (O)**",
+        "has_embedding": true
+      }
+    ],
+    "Q5": [
+      {
+        "repeat": 1,
+        "response": "That's a very famous painting! \n\nThe Mona Lisa was painted by **Leonardo da Vinci**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The Mona Lisa was painted by **Leonardo da Vinci**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "That's a famous one! The Mona Lisa was painted by **Leonardo da Vinci**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "That's a great question!  \n\nThe Mona Lisa was painted by **Leonardo da Vinci**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "That's a great question!  The Mona Lisa was painted by **Leonardo da Vinci**.",
+        "has_embedding": true
+      }
+    ],
+    "Q6": [
+      {
+        "repeat": 1,
+        "response": "The largest planet in our solar system is **Jupiter**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The largest planet in our solar system is **Jupiter**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The largest planet in our solar system is **Jupiter**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "That would be **Jupiter**. \n\nIt's a gas giant and is so big that you could fit all the other planets inside of it!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "That would be **Jupiter**. \n\nIt's a gas giant and is so large that you could fit all the other planets inside it with room to spare!",
+        "has_embedding": true
+      }
+    ],
+    "Q7": [
+      {
+        "repeat": 1,
+        "response": "World War II ended in **1945**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "World War II ended in **1945**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "World War II ended in **1945**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "World War II ended in **1945**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "World War II ended in **1945**.",
+        "has_embedding": true
+      }
+    ],
+    "Q8": [
+      {
+        "repeat": 1,
+        "response": "The speed of light in a vacuum is exactly **299,792,458 meters per second**. \n\nThis is often rounded to **300,000,000 meters per second** for simplicity.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The speed of light in a vacuum is **approximately 299,792,458 meters per second**.  \n\nThis is often rounded to **300,000 kilometers per second** or **186,282 miles per second**. It's represented by the letter \"c\" in physics.\n\nIt's a fundamental constant in the universe and plays a crucial role in many areas of science, including:\n\n* **Special Relativity:**  Einstein's theory of special relativity is based on the idea that the speed of light in a vacuum is constant for all observers, regardless of their own motion.\n* **Electromagnetism:** Light is an electromagnetic wave, and its speed is directly related to the permittivity and permeability of free space.\n* **Cosmology:** The speed of light helps us understand the distances and timescales involved in astronomical phenomena.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The speed of light in a vacuum is approximately **299,792,458 meters per second**. \n\nThis is often rounded to **300,000 kilometers per second** or **186,282 miles per second**.  \n\nIt's represented by the letter \"c\" in physics equations. It's a fundamental constant in the universe and the fastest speed at which anything can travel.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The speed of light in a vacuum is approximately **299,792,458 meters per second**.  \n\nThis is often rounded to **3 x 10^8 meters per second** for simplicity.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The speed of light in a vacuum is exactly **299,792,458 meters per second**. \n\nThis is often rounded to **300,000 kilometers per second** or **186,282 miles per second**.",
+        "has_embedding": true
+      }
+    ],
+    "Q9": [
+      {
+        "repeat": 1,
+        "response": "Penicillin was discovered by **Alexander Fleming** in 1928.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "Penicillin was discovered by **Alexander Fleming** in 1928.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "Penicillin was discovered by **Alexander Fleming** in 1928.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "That would be **Alexander Fleming**.  \n\nHe discovered the antibiotic properties of penicillin in 1928 when he observed that a mold called *Penicillium notatum* was inhibiting the growth of bacteria in one of his petri dishes.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "Penicillin was discovered by **Alexander Fleming** in 1928.",
+        "has_embedding": true
+      }
+    ],
+    "Q10": [
+      {
+        "repeat": 1,
+        "response": "The boiling point of water at sea level is **100 degrees Celsius**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The boiling point of water at sea level is **100 degrees Celsius**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The boiling point of water at sea level is **100 degrees Celsius**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The boiling point of water at sea level is **100 degrees Celsius**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The boiling point of water at sea level is **100 degrees Celsius**.",
+        "has_embedding": true
+      }
+    ],
+    "Q11": [
+      {
+        "repeat": 1,
+        "response": "The first woman to win a Nobel Prize was **Marie Curie**. \n\nShe received the **Nobel Prize in Physics** in 1903, jointly with her husband Pierre Curie and Henri Becquerel, for their work on radioactivity.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The first woman to win a Nobel Prize was **Marie Curie**. \n\nShe received the Nobel Prize in Physics in **1903**, jointly with her husband Pierre Curie and Henri Becquerel, for their work on radioactivity.  \n\nLater, she became the first person and only woman to win the Nobel Prize twice, receiving the Nobel Prize in Chemistry in **1911** for her discovery of the elements polonium and radium.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The first woman to win a Nobel Prize was **Marie Curie**, who won the Nobel Prize in Physics in 1903 jointly with her husband, Pierre Curie, and Henri Becquerel for their work on radioactivity.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The first woman to win a Nobel Prize was **Marie Curie**. \n\nShe received the award in **1903** in Physics, jointly with her husband Pierre Curie and Henri Becquerel, for their work on radioactivity.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The first woman to win a Nobel Prize was **Marie Curie**. \n\nShe received the **Nobel Prize in Physics** in **1903**, jointly with her husband Pierre Curie and Henri Becquerel, for their work on radioactivity.",
+        "has_embedding": true
+      }
+    ],
+    "Q12": [
+      {
+        "repeat": 1,
+        "response": "The capital of Australia is **Canberra**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The capital of Australia is **Canberra**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The capital of Australia is **Canberra**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The capital of Australia is **Canberra**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The capital of Australia is **Canberra**.",
+        "has_embedding": true
+      }
+    ],
+    "Q13": [
+      {
+        "repeat": 1,
+        "response": "Romeo and Juliet was written by **William Shakespeare**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "Romeo and Juliet was written by **William Shakespeare**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "That's a classic!  \n\n**William Shakespeare** wrote *Romeo and Juliet*.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "Romeo and Juliet was written by **William Shakespeare**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "Romeo and Juliet was written by **William Shakespeare**.",
+        "has_embedding": true
+      }
+    ],
+    "Q14": [
+      {
+        "repeat": 1,
+        "response": "The atomic number of oxygen is **8**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The atomic number of oxygen is **8**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The atomic number of oxygen is **8**.  \n\nThis means that an oxygen atom has 8 protons in its nucleus.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The atomic number of oxygen is **8**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The atomic number of oxygen is **8**.",
+        "has_embedding": true
+      }
+    ],
+    "Q15": [
+      {
+        "repeat": 1,
+        "response": "That would be **Neil Armstrong**, an American astronaut. \n\nHe took his famous \"one small step\" on July 20, 1969, during the Apollo 11 mission.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The first person to step on the moon was **Neil Armstrong**, an American astronaut. \n\nHe took his famous \"one small step\" on July 20, 1969, during the Apollo 11 mission.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "That would be **Neil Armstrong**, an American astronaut. \n\nHe took his famous \"one small step\" on July 20, 1969, during the Apollo 11 mission.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "That would be **Neil Armstrong**, an American astronaut. \n\nHe took his famous \"one small step\" on July 20, 1969, during the Apollo 11 mission.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "Neil Armstrong was the first person to step on the moon. \n\nHe took his famous \"one small step\" on July 20, 1969, during the Apollo 11 mission.",
+        "has_embedding": true
+      }
+    ],
+    "Q16": [
+      {
+        "repeat": 1,
+        "response": "The circumference of Earth is approximately **24,901 miles** (40,075 kilometers).  \n\nKeep in mind that this is an average. The Earth is not a perfect sphere, so its circumference varies slightly depending on where you measure it.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The circumference of Earth is approximately **24,901 miles (40,075 kilometers)** at the equator. \n\nKeep in mind that Earth isn't a perfect sphere, it's slightly flattened at the poles and bulging at the equator.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The circumference of Earth is approximately **24,901 miles** (40,075 kilometers). \n\nIt's important to note that this is an average. The Earth is not a perfect sphere, but slightly flattened at the poles and bulging at the equator. So, the circumference varies depending on where you measure it:\n\n* **Equatorial circumference:**  24,901 miles (40,075 km)\n* **Meridional circumference (poles to poles):** 24,860 miles (40,008 km)\n\n\nLet me know if you have any other questions about Earth!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The circumference of Earth is approximately **24,901 miles (40,075 kilometers)** at the equator. \n\nIt's important to note that Earth isn't a perfect sphere, it's slightly flattened at the poles and bulging at the equator. So, the circumference varies depending on where you measure it.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The circumference of Earth is approximately **24,901 miles (40,075 kilometers)** at the equator.",
+        "has_embedding": true
+      }
+    ],
+    "Q17": [
+      {
+        "repeat": 1,
+        "response": "The Declaration of Independence was adopted on **July 4, 1776**.  \n\nHowever, it wasn't actually signed until **August 2, 1776**, by most of the delegates.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The Declaration of Independence was adopted on **July 4, 1776**.  \n\nHowever, the formal signing didn't take place until **August 2, 1776**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The Declaration of Independence was adopted on **July 4, 1776**.  \n\nHowever, the actual signing took place over a period of time, with most delegates signing on **August 2, 1776**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The Declaration of Independence was adopted on **July 4, 1776**.  \n\nHowever, the actual signing didn't happen all at once. \n\n* Most delegates signed the engrossed (final) copy on **August 2, 1776**.\n* Some signed later. \n\n\nLet me know if you have any other history questions!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The Declaration of Independence was adopted on **July 4, 1776**.  \n\nHowever, it wasn't actually signed until **August 2, 1776**.",
+        "has_embedding": true
+      }
+    ],
+    "Q18": [
+      {
+        "repeat": 1,
+        "response": "The tallest mountain on Earth, measured from base to peak, is **Mauna Kea** in Hawaii.  \n\nWhile Mount Everest is the highest mountain above sea level, Mauna Kea rises over 33,500 feet (10,210 meters) from its base on the ocean floor to its summit.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The tallest mountain on Earth, measured from base to peak, is **Mauna Kea** in Hawaii. \n\nHowever, if you're measuring from sea level to summit, then **Mount Everest** in the Himalayas is the tallest.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The tallest mountain on Earth, measured from base to peak, is **Mauna Kea** in Hawaii. \n\nHowever, if you're measuring from sea level, the tallest mountain is **Mount Everest**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "That depends on how you define \"tallest\"! \n\n* **Highest altitude above sea level:**  **Mount Everest**, at 8,848.86 meters (29,031.7 feet) above sea level, is the undisputed champion.\n\n* **Tallest from base to peak:** **Mauna Kea** in Hawaii wins this one. While its summit is only 4,207 meters (13,803 feet) above sea level, it rises over 10,000 meters (33,000 feet) from its base on the ocean floor.  \n\n\nLet me know if you'd like to know more about either of these amazing mountains!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The tallest mountain on Earth, measured from sea level to its summit, is **Mount Everest**. \n\nIt stands at a staggering height of **8,848.86 meters (29,031.7 feet)** above sea level.",
+        "has_embedding": true
+      }
+    ],
+    "Q19": [
+      {
+        "repeat": 1,
+        "response": "The theory of relativity is most closely associated with **Albert Einstein**.  \n\nIt's actually comprised of two theories:\n\n* **Special Relativity (1905):** Deals with the relationship between space and time for objects moving at constant speeds.\n* **General Relativity (1915):** Extends special relativity to include gravity, describing it as a curvature of spacetime caused by mass and energy. \n\n\nLet me know if you'd like to know more about either of these theories!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "That would be **Albert Einstein**. \n\nHe developed two theories of relativity:\n\n* **Special Relativity (1905):** This theory deals with the relationship between space and time for objects moving at constant speeds. It introduced concepts like time dilation and length contraction.\n* **General Relativity (1915):** This theory expands on special relativity to include gravity, describing it as a curvature of spacetime caused by mass and energy.\n\n\nLet me know if you'd like to know more about either of these theories!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "**Albert Einstein** developed the theory of relativity.  \n\nIt is actually comprised of two theories:\n\n* **Special Relativity (1905):** Deals with the relationship between space and time for objects moving at constant speeds.\n* **General Relativity (1915):** Extends special relativity to include gravity, describing it as a curvature of spacetime caused by mass and energy.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "That would be **Albert Einstein**. \n\nHe developed two theories of relativity:\n\n* **Special Relativity** (1905): Deals with the relationship between space and time for objects moving at constant speeds.\n* **General Relativity** (1915): Extends special relativity to include gravity, describing it as a curvature of spacetime caused by mass and energy. \n\n\nEinstein's theories revolutionized our understanding of the universe and have had a profound impact on modern physics.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The theory of relativity is most closely associated with **Albert Einstein**.  \n\nIt's actually two separate theories:\n\n* **Special Relativity (1905):** Deals with the relationship between space and time for objects moving at constant speeds.\n* **General Relativity (1915):** Extends special relativity to include gravity, describing it as a curvature of spacetime caused by mass and energy. \n\n\nLet me know if you'd like more details about either theory!",
+        "has_embedding": true
+      }
+    ],
+    "Q20": [
+      {
+        "repeat": 1,
+        "response": "The largest ocean on Earth is the **Pacific Ocean**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The largest ocean on Earth is the **Pacific Ocean**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The largest ocean on Earth is the **Pacific Ocean**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The largest ocean on Earth is the **Pacific Ocean**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The largest ocean on Earth is the **Pacific Ocean**.",
+        "has_embedding": true
+      }
+    ]
+  },
+  "gemma-2-27b": {
+    "Q1": [
+      {
+        "repeat": 1,
+        "response": "The Apollo 11 mission landed on the moon on **July 20, 1969**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The Apollo 11 mission landed on the moon in **1969**. \n\nSpecifically, the lunar module \"Eagle\" touched down on July 20, 1969.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "Apollo 11 landed on the moon in **1969**. \n\nSpecifically, it landed on July 20, 1969.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The Apollo 11 mission landed on the moon on **July 20, 1969**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The Apollo 11 mission landed on the moon on **July 20, 1969**.",
+        "has_embedding": true
+      }
+    ],
+    "Q2": [
+      {
+        "repeat": 1,
+        "response": "Pride and Prejudice was written by **Jane Austen**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "**Jane Austen** wrote *Pride and Prejudice*.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "Pride and Prejudice was written by **Jane Austen**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "**Jane Austen** wrote *Pride and Prejudice*.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": ". **Jane Austen** wrote *Pride and Prejudice*.",
+        "has_embedding": true
+      }
+    ],
+    "Q3": [
+      {
+        "repeat": 1,
+        "response": "The capital of Japan is **Tokyo**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The capital of Japan is **Tokyo**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The capital of Japan is **Tokyo**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": ". Tokyo",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The capital of Japan is **Tokyo**.",
+        "has_embedding": true
+      }
+    ],
+    "Q4": [
+      {
+        "repeat": 1,
+        "response": "The chemical formula for water is **H\u2082O**. \n\nThis means each molecule of water consists of:\n\n* **2 atoms of Hydrogen (H)**\n* **1 atom of Oxygen (O)** \n\n\nLet me know if you have any other questions!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The chemical formula for water is **H\u2082O**. \n\nThis means each molecule of water is made up of:\n\n* **2 atoms of Hydrogen (H)**\n* **1 atom of Oxygen (O)** \n\n\nLet me know if you have any other questions!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The chemical formula for water is **H\u2082O**. \n\nThis means each molecule of water is composed of:\n\n* **2 atoms of Hydrogen (H)**\n* **1 atom of Oxygen (O)** \n\n\nLet me know if you have any other questions!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The chemical formula for water is **H\u2082O**. \n\nThis means each molecule of water is made up of:\n\n* **2 Hydrogen atoms (H)**\n* **1 Oxygen atom (O)** \n\n\nLet me know if you have any other chemistry questions!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The chemical formula for water is **H\u2082O**. \n\nThis means each molecule of water consists of:\n\n* **2 atoms of Hydrogen (H)**\n* **1 atom of Oxygen (O)** \n\n\nLet me know if you have any other chemistry questions!",
+        "has_embedding": true
+      }
+    ],
+    "Q5": [
+      {
+        "repeat": 1,
+        "response": "The Mona Lisa was painted by **Leonardo da Vinci**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The Mona Lisa was painted by **Leonardo da Vinci**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The Mona Lisa was painted by **Leonardo da Vinci**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The Mona Lisa was painted by **Leonardo da Vinci**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The Mona Lisa was painted by **Leonardo da Vinci**.",
+        "has_embedding": true
+      }
+    ],
+    "Q6": [
+      {
+        "repeat": 1,
+        "response": "The largest planet in our solar system is **Jupiter**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The largest planet in our solar system is **Jupiter**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The largest planet in our solar system is **Jupiter**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The largest planet in our solar system is **Jupiter**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The largest planet in our solar system is **Jupiter**.",
+        "has_embedding": true
+      }
+    ],
+    "Q7": [
+      {
+        "repeat": 1,
+        "response": "World War II ended in **1945**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "World War II ended in **1945**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "World War II ended in **1945**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "World War II ended in **1945**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "World War II officially ended in **1945**. \n\n*  Japan surrendered on **September 2, 1945**, following the atomic bombings of Hiroshima and Nagasaki.",
+        "has_embedding": true
+      }
+    ],
+    "Q8": [
+      {
+        "repeat": 1,
+        "response": "The speed of light in a vacuum is exactly **299,792,458 meters per second**. \n\nThis is often rounded to **300,000 kilometers per second** or **186,000 miles per second**.\n\n\nIt's important to note that this speed is a fundamental constant in physics and is denoted by the letter \"c\".",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The speed of light in a vacuum is **299,792,458 meters per second**. \n\nThis is often rounded to **300,000 kilometers per second** or **186,000 miles per second**. \n\nIt's important to note that this speed is constant and the same for all observers, regardless of their own motion. This is one of the fundamental principles of Einstein's theory of relativity.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The speed of light in a vacuum is exactly **299,792,458 meters per second**. \n\nThis is often approximated to **3 x 10\u2078 meters per second** for simpler calculations.\n\nIt is a fundamental constant in physics and is denoted by the letter 'c'.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The speed of light in a vacuum is exactly **299,792,458 meters per second**. \n\nThis is often approximated to **3 x 10^8 meters per second** for simplicity. It's also commonly expressed as **186,282 miles per second**.\n\n\nLet me know if you have any other questions!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The speed of light in a vacuum is **299,792,458 meters per second**. \n\nThis is often approximated as **3 x 10\u2078 meters per second** for simpler calculations.\n\n\nIt's important to note that this is the fastest speed anything can travel in the universe, according to Einstein's theory of relativity.",
+        "has_embedding": true
+      }
+    ],
+    "Q9": [
+      {
+        "repeat": 1,
+        "response": "Penicillin was discovered by **Alexander Fleming** in 1928.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "Penicillin was discovered by **Alexander Fleming** in 1928.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "Penicillin was discovered by Scottish scientist **Alexander Fleming** in 1928.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "Penicillin was discovered by **Alexander Fleming** in 1928.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "Penicillin was discovered by **Alexander Fleming** in 1928.",
+        "has_embedding": true
+      }
+    ],
+    "Q10": [
+      {
+        "repeat": 1,
+        "response": "The boiling point of water at sea level in Celsius is **100 degrees Celsius**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The boiling point of water at sea level in Celsius is **100 degrees Celsius**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The boiling point of water at sea level in Celsius is **100\u00b0C**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The boiling point of water at sea level in Celsius is **100\u00b0C**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The boiling point of water at sea level in Celsius is **100\u00b0C**.",
+        "has_embedding": true
+      }
+    ],
+    "Q11": [
+      {
+        "repeat": 1,
+        "response": "The first woman to win a Nobel Prize was **Marie Curie**. \n\nShe won the **Nobel Prize in Physics** in **1903**, alongside her husband Pierre Curie and Henri Becquerel, for their pioneering work on radioactivity.  \n\nShe later became the first person and only woman to win the Nobel Prize twice when she won the **Nobel Prize in Chemistry** in **1911** for her discovery of the elements polonium and radium.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The first woman to win a Nobel Prize was **Marie Curie**. \n\nShe won the **Nobel Prize in Physics** in **1903**, alongside her husband Pierre Curie and Henri Becquerel, for their work on radioactivity. She later went on to win a second Nobel Prize, this time in **Chemistry** in **1911**, for her discovery of the elements polonium and radium.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The first woman to win a Nobel Prize was **Marie Curie**. \n\nShe won the **Nobel Prize in Physics** in **1903**, alongside her husband Pierre Curie and Henri Becquerel, for their groundbreaking work on radioactivity.  She later became the first person and only woman to win the Nobel Prize twice when she received the **Nobel Prize in Chemistry** in **1911** for her discovery of the elements polonium and radium.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The first woman to win a Nobel Prize was **Marie Curie**. \n\nShe won the **Nobel Prize in Physics** in **1903**, alongside her husband Pierre Curie and Henri Becquerel, for their pioneering work on radioactivity.  \n\nShe later became the first person (and only woman) to win the Nobel Prize twice, receiving the **Nobel Prize in Chemistry** in **1911** for her discovery of the elements polonium and radium.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The first woman to win a Nobel Prize was **Marie Curie**. \n\nShe won the Nobel Prize in Physics in 1903, alongside her husband Pierre Curie and Henri Becquerel, for their pioneering work on radioactivity. She later became the first person and only woman to win the Nobel Prize twice, receiving the Nobel Prize in Chemistry in 1911 for her discovery of the elements radium and polonium.",
+        "has_embedding": true
+      }
+    ],
+    "Q12": [
+      {
+        "repeat": 1,
+        "response": "The capital of Australia is **Canberra**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The capital of Australia is **Canberra**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The capital of Australia is **Canberra**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The capital of Australia is **Canberra**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The capital of Australia is **Canberra**.",
+        "has_embedding": true
+      }
+    ],
+    "Q13": [
+      {
+        "repeat": 1,
+        "response": "Romeo and Juliet was written by **William Shakespeare**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "'Romeo and Juliet' was written by **William Shakespeare**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "That would be **William Shakespeare**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "That would be **William Shakespeare**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "Romeo and Juliet was written by **William Shakespeare**.",
+        "has_embedding": true
+      }
+    ],
+    "Q14": [
+      {
+        "repeat": 1,
+        "response": "The atomic number of oxygen is **8**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The atomic number of oxygen is **8**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The atomic number of oxygen is **8**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The atomic number of oxygen is **8**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The atomic number of oxygen is **8**.",
+        "has_embedding": true
+      }
+    ],
+    "Q15": [
+      {
+        "repeat": 1,
+        "response": "That would be **Neil Armstrong**, the commander of the Apollo 11 mission. He stepped onto the lunar surface on July 20, 1969, uttering the famous words, \"That's one small step for man, one giant leap for mankind.\"",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "That would be **Neil Armstrong**, an American astronaut. \n\nHe took his famous \"one small step\" on July 20, 1969, during the Apollo 11 mission.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "That would be **Neil Armstrong**, an American astronaut. He took his famous \"one small step\" on July 20, 1969, during the Apollo 11 mission.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "That would be **Neil Armstrong**, commander of the Apollo 11 mission.  \n\nHe took his famous \"one small step\" on July 20, 1969.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "That would be **Neil Armstrong**, an American astronaut. \n\nHe took his famous \"one small step\" on July 20, 1969, during the Apollo 11 mission.",
+        "has_embedding": true
+      }
+    ],
+    "Q16": [
+      {
+        "repeat": 1,
+        "response": "The circumference of Earth is approximately **24,901 miles (40,075 kilometers)** at the equator. \n\n\nIt's important to note:\n\n* **Earth is not perfectly spherical:** It bulges slightly at the equator and is flattened at the poles.\n* **Circumference varies with latitude:** The circumference is smallest around the poles and largest at the equator.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The circumference of Earth is approximately **24,901 miles (40,075 kilometers)** at the equator. \n\nIt's important to note that this is a rough estimate. The Earth isn't perfectly spherical, it bulges slightly at the equator and is flattened at the poles. This means the circumference is slightly shorter if measured around the poles.\n\n\nLet me know if you have any other questions about our planet!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The circumference of Earth is approximately **24,901 miles (40,075 kilometers)** at the equator. \n\n\nIt's important to note that:\n\n* This measurement refers to the circumference around the widest part of the Earth.\n* The Earth is not a perfect sphere but an oblate spheroid, meaning it bulges slightly at the equator and is flatter at the poles. Therefore, the circumference is slightly smaller when measured around the poles.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The circumference of Earth is approximately **24,901 miles (40,075 kilometers)** at the equator. \n\n\nIt's important to note that this is an average measurement, as the Earth is not a perfect sphere but rather an oblate spheroid (slightly flattened at the poles).  The circumference is slightly smaller around the poles.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The circumference of Earth is approximately **24,901 miles (40,075 kilometers)** at the equator. \n\n\nIt's important to note:\n\n* **Earth isn't a perfect sphere:** It's slightly flattened at the poles and bulging at the equator, so the circumference varies slightly depending on where you measure it.\n* **Different sources might give slightly different measurements** due to variations in measurement techniques and rounding.",
+        "has_embedding": true
+      }
+    ],
+    "Q17": [
+      {
+        "repeat": 1,
+        "response": "The Declaration of Independence was signed on **July 4, 1776**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The Declaration of Independence was signed on **July 4, 1776**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The Declaration of Independence was signed on **July 4, 1776**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The Declaration of Independence was signed on **July 4, 1776**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The Declaration of Independence was signed on **July 4, 1776**.",
+        "has_embedding": true
+      }
+    ],
+    "Q18": [
+      {
+        "repeat": 1,
+        "response": "The tallest mountain on Earth, measured from base to peak, is **Mauna Kea** in Hawaii. \n\nWhile Mount Everest is the highest altitude above sea level, Mauna Kea rises over 33,500 feet (10,210 meters) from its base on the ocean floor.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The tallest mountain on Earth, measured from base to peak, is **Mauna Kea** in Hawaii. \n\nWhile Mount Everest is the highest mountain above sea level, Mauna Kea rises over 33,500 feet (10,210 meters) from its base on the ocean floor to its summit, making it taller than Everest's 29,031.7 feet (8,848.86 meters) above sea level.\n\n\nLet me know if you have any other geography questions!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The tallest mountain on Earth, measured from base to peak, is **Mauna Kea** in Hawaii. \n\nWhile Mount Everest is the highest mountain above sea level, Mauna Kea rises over 33,500 feet (10,210 meters) from its base on the ocean floor to its summit, making it taller than Everest's 29,031.7 feet (8,848.86 meters) above sea level.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The tallest mountain on Earth, measured from base to peak, is **Mauna Kea** in Hawaii. \n\nWhile **Mount Everest** is the highest mountain above sea level, Mauna Kea rises over 33,500 feet (10,210 meters) from its base on the ocean floor to its summit.  Most of it is submerged.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The tallest mountain on Earth is **Mount Everest**.",
+        "has_embedding": true
+      }
+    ],
+    "Q19": [
+      {
+        "repeat": 1,
+        "response": "The theory of relativity is most famously attributed to **Albert Einstein**. \n\nHe developed two theories:\n\n* **Special Relativity (1905):** Deals with the relationship between space and time. It postulates that the laws of physics are the same for all observers in uniform motion and that the speed of light in a vacuum is the same for all observers, regardless of the motion of the light source.\n* **General Relativity (1915):** Explains gravity as a curvature of spacetime caused by the presence of mass and energy.\n\nWhile Einstein is credited with developing these groundbreaking theories, it's important to note that his work built upon the foundations laid by other physicists like Isaac Newton, Hendrik Lorentz, Henri Poincar\u00e9, and Hermann Minkowski.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The theory of relativity is most closely associated with **Albert Einstein**. \n\nHe developed two theories:\n\n* **Special Relativity** (1905): Deals with the relationship between space and time.\n* **General Relativity** (1915): Explains gravity as a curvature of spacetime caused by mass and energy.\n\n\nLet me know if you'd like to know more about either theory!",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The theory of relativity is most famously attributed to **Albert Einstein**. \n\nIt's important to note that the theory of relativity actually encompasses two theories:\n\n* **Special Relativity (1905):** Deals with the relationship between space and time for objects moving at constant speeds.\n* **General Relativity (1915):** Extends special relativity to include gravity, explaining it as a curvature of spacetime caused by mass and energy. \n\n\nWhile Einstein is credited with these groundbreaking theories, it's worth acknowledging that his work built upon the foundations laid by other physicists like Isaac Newton, Hendrik Lorentz, Henri Poincar\u00e9, and others.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The theory of relativity is most famously associated with **Albert Einstein**. \n\nHe developed two theories:\n\n* **Special Relativity** (1905): This deals with the relationship between space and time for objects moving at constant speeds.\n* **General Relativity** (1915): This expands on special relativity to include gravity, explaining it as a curvature of spacetime caused by mass and energy.\n\n\nWhile Einstein is credited with these groundbreaking theories, it's important to note that his work built upon the ideas of other physicists who came before him, such as Isaac Newton, Hendrik Lorentz, and Henri Poincar\u00e9.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The theory of relativity is most closely associated with **Albert Einstein**. \n\nHe developed two theories:\n\n* **Special Relativity** (1905): Deals with the relationship between space and time.\n* **General Relativity** (1915): Expands on special relativity to include gravity.\n\n\nWhile Einstein is credited with developing these groundbreaking theories, it's important to note that his work built upon the research of many other physicists who came before him.",
+        "has_embedding": true
+      }
+    ],
+    "Q20": [
+      {
+        "repeat": 1,
+        "response": "The largest ocean on Earth is the **Pacific Ocean**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 2,
+        "response": "The largest ocean on Earth is the **Pacific Ocean**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 3,
+        "response": "The largest ocean on Earth is the **Pacific Ocean**.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 4,
+        "response": "The largest ocean on Earth is the **Pacific Ocean**. \n\nIt covers over 30% of the Earth's surface and contains more than half of the free water on the planet.",
+        "has_embedding": true
+      },
+      {
+        "repeat": 5,
+        "response": "The largest ocean on Earth is the **Pacific Ocean**.",
+        "has_embedding": true
+      }
+    ]
+  }
+}

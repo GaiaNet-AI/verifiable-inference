@@ -1,0 +1,781 @@
+2025-03-18 00:07:53,644 - INFO - Experiment started at 2025-03-18 00:07:53.644095
+2025-03-18 00:07:53,644 - INFO - Testing models: ['llama-3-1-8b', 'gemma-2-9b', 'gemma-2-27b']
+2025-03-18 00:07:53,644 - INFO - Number of questions: 20
+2025-03-18 00:07:53,644 - INFO - Repeats per question: 5
+2025-03-18 00:07:53,644 - INFO - Timeout: 16 seconds
+2025-03-18 00:07:53,644 - INFO - Concurrency: 15 workers
+2025-03-18 00:07:53,644 - INFO - Delay between requests: 0.00625 seconds
+2025-03-18 00:07:53,644 - INFO - Total API calls expected: 300
+2025-03-18 00:07:53,644 - INFO - Waiting for llama-3-1-8b to become available...
+2025-03-18 00:07:53,644 - INFO - Checking availability of llama-3-1-8b at http://localhost:8080...
+2025-03-18 00:07:53,651 - WARNING - Error checking availability for llama-3-1-8b: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13e2c7340>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-03-18 00:08:03,656 - INFO - Checking availability of llama-3-1-8b at http://localhost:8080...
+2025-03-18 00:08:03,658 - WARNING - Error checking availability for llama-3-1-8b: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13e2c7c10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-03-18 00:08:13,665 - INFO - Checking availability of llama-3-1-8b at http://localhost:8080...
+2025-03-18 00:08:14,581 - INFO - Model llama-3-1-8b is available and responsive
+2025-03-18 00:08:14,582 - INFO - Processing llama-3-1-8b, Q1
+2025-03-18 00:08:14,582 - INFO -   Repeat 1/5
+2025-03-18 00:08:16,125 - INFO -   Repeat 2/5
+2025-03-18 00:08:17,904 - INFO -   Repeat 3/5
+2025-03-18 00:08:18,412 - INFO -   Repeat 4/5
+2025-03-18 00:08:19,620 - INFO -   Repeat 5/5
+2025-03-18 00:08:21,411 - INFO - Processing llama-3-1-8b, Q2
+2025-03-18 00:08:21,411 - INFO -   Repeat 1/5
+2025-03-18 00:08:22,604 - INFO -   Repeat 2/5
+2025-03-18 00:08:24,552 - INFO -   Repeat 3/5
+2025-03-18 00:08:25,231 - INFO -   Repeat 4/5
+2025-03-18 00:08:25,678 - INFO -   Repeat 5/5
+2025-03-18 00:08:26,880 - INFO - Processing llama-3-1-8b, Q3
+2025-03-18 00:08:26,880 - INFO -   Repeat 1/5
+2025-03-18 00:08:27,224 - INFO -   Repeat 2/5
+2025-03-18 00:08:27,563 - INFO -   Repeat 3/5
+2025-03-18 00:08:27,843 - INFO -   Repeat 4/5
+2025-03-18 00:08:28,124 - INFO -   Repeat 5/5
+2025-03-18 00:08:28,404 - INFO - Processing llama-3-1-8b, Q4
+2025-03-18 00:08:28,404 - INFO -   Repeat 1/5
+2025-03-18 00:08:29,132 - INFO -   Repeat 2/5
+2025-03-18 00:08:29,860 - INFO -   Repeat 3/5
+2025-03-18 00:08:30,190 - INFO -   Repeat 4/5
+2025-03-18 00:08:30,520 - INFO -   Repeat 5/5
+2025-03-18 00:08:31,248 - INFO - Processing llama-3-1-8b, Q5
+2025-03-18 00:08:31,248 - INFO -   Repeat 1/5
+2025-03-18 00:08:32,619 - INFO -   Repeat 2/5
+2025-03-18 00:08:33,115 - INFO -   Repeat 3/5
+2025-03-18 00:08:33,494 - INFO -   Repeat 4/5
+2025-03-18 00:08:34,828 - INFO -   Repeat 5/5
+2025-03-18 00:08:35,207 - INFO - Processing llama-3-1-8b, Q6
+2025-03-18 00:08:35,207 - INFO -   Repeat 1/5
+2025-03-18 00:08:36,020 - INFO -   Repeat 2/5
+2025-03-18 00:08:36,349 - INFO -   Repeat 3/5
+2025-03-18 00:08:37,446 - INFO -   Repeat 4/5
+2025-03-18 00:08:38,258 - INFO -   Repeat 5/5
+2025-03-18 00:08:38,870 - INFO - Processing llama-3-1-8b, Q7
+2025-03-18 00:08:38,870 - INFO -   Repeat 1/5
+2025-03-18 00:08:41,544 - INFO -   Repeat 2/5
+2025-03-18 00:08:42,978 - INFO -   Repeat 3/5
+2025-03-18 00:08:44,362 - INFO -   Repeat 4/5
+2025-03-18 00:08:46,263 - INFO -   Repeat 5/5
+2025-03-18 00:08:48,614 - INFO - Processing llama-3-1-8b, Q8
+2025-03-18 00:08:48,615 - INFO -   Repeat 1/5
+2025-03-18 00:08:50,269 - INFO -   Repeat 2/5
+2025-03-18 00:08:50,986 - INFO -   Repeat 3/5
+2025-03-18 00:08:51,770 - INFO -   Repeat 4/5
+2025-03-18 00:08:52,304 - INFO -   Repeat 5/5
+2025-03-18 00:08:53,287 - INFO - Processing llama-3-1-8b, Q9
+2025-03-18 00:08:53,287 - INFO -   Repeat 1/5
+2025-03-18 00:08:53,701 - INFO -   Repeat 2/5
+2025-03-18 00:08:55,552 - INFO -   Repeat 3/5
+2025-03-18 00:08:59,814 - INFO -   Repeat 4/5
+2025-03-18 00:09:03,344 - INFO -   Repeat 5/5
+2025-03-18 00:09:07,416 - INFO - Processing llama-3-1-8b, Q10
+2025-03-18 00:09:07,416 - INFO -   Repeat 1/5
+2025-03-18 00:09:07,891 - INFO -   Repeat 2/5
+2025-03-18 00:09:08,375 - INFO -   Repeat 3/5
+2025-03-18 00:09:09,007 - INFO -   Repeat 4/5
+2025-03-18 00:09:09,508 - INFO -   Repeat 5/5
+2025-03-18 00:09:09,927 - INFO - Processing llama-3-1-8b, Q11
+2025-03-18 00:09:09,927 - INFO -   Repeat 1/5
+2025-03-18 00:09:12,320 - INFO -   Repeat 2/5
+2025-03-18 00:09:14,069 - INFO -   Repeat 3/5
+2025-03-18 00:09:16,732 - INFO -   Repeat 4/5
+2025-03-18 00:09:18,757 - INFO -   Repeat 5/5
+2025-03-18 00:09:21,301 - INFO - Processing llama-3-1-8b, Q12
+2025-03-18 00:09:21,301 - INFO -   Repeat 1/5
+2025-03-18 00:09:21,581 - INFO -   Repeat 2/5
+2025-03-18 00:09:21,860 - INFO -   Repeat 3/5
+2025-03-18 00:09:22,143 - INFO -   Repeat 4/5
+2025-03-18 00:09:22,421 - INFO -   Repeat 5/5
+2025-03-18 00:09:22,700 - INFO - Processing llama-3-1-8b, Q13
+2025-03-18 00:09:22,700 - INFO -   Repeat 1/5
+2025-03-18 00:09:23,402 - INFO -   Repeat 2/5
+2025-03-18 00:09:24,408 - INFO -   Repeat 3/5
+2025-03-18 00:09:25,281 - INFO -   Repeat 4/5
+2025-03-18 00:09:26,552 - INFO -   Repeat 5/5
+2025-03-18 00:09:27,033 - INFO - Processing llama-3-1-8b, Q14
+2025-03-18 00:09:27,033 - INFO -   Repeat 1/5
+2025-03-18 00:09:27,351 - INFO -   Repeat 2/5
+2025-03-18 00:09:27,668 - INFO -   Repeat 3/5
+2025-03-18 00:09:27,985 - INFO -   Repeat 4/5
+2025-03-18 00:09:28,304 - INFO -   Repeat 5/5
+2025-03-18 00:09:28,620 - INFO - Processing llama-3-1-8b, Q15
+2025-03-18 00:09:28,621 - INFO -   Repeat 1/5
+2025-03-18 00:09:29,358 - INFO -   Repeat 2/5
+2025-03-18 00:09:32,611 - INFO -   Repeat 3/5
+2025-03-18 00:09:33,977 - INFO -   Repeat 4/5
+2025-03-18 00:09:34,857 - INFO -   Repeat 5/5
+2025-03-18 00:09:37,433 - INFO - Processing llama-3-1-8b, Q16
+2025-03-18 00:09:37,433 - INFO -   Repeat 1/5
+2025-03-18 00:09:37,962 - INFO -   Repeat 2/5
+2025-03-18 00:09:40,239 - INFO -   Repeat 3/5
+2025-03-18 00:09:42,358 - INFO -   Repeat 4/5
+2025-03-18 00:09:44,255 - INFO -   Repeat 5/5
+2025-03-18 00:09:44,785 - INFO - Processing llama-3-1-8b, Q17
+2025-03-18 00:09:44,785 - INFO -   Repeat 1/5
+2025-03-18 00:09:45,170 - INFO -   Repeat 2/5
+2025-03-18 00:09:46,210 - INFO -   Repeat 3/5
+2025-03-18 00:09:46,562 - INFO -   Repeat 4/5
+2025-03-18 00:09:46,981 - INFO -   Repeat 5/5
+2025-03-18 00:09:47,331 - INFO - Processing llama-3-1-8b, Q18
+2025-03-18 00:09:47,331 - INFO -   Repeat 1/5
+2025-03-18 00:09:48,337 - INFO -   Repeat 2/5
+2025-03-18 00:09:50,900 - INFO -   Repeat 3/5
+2025-03-18 00:09:51,852 - INFO -   Repeat 4/5
+2025-03-18 00:09:52,722 - INFO -   Repeat 5/5
+2025-03-18 00:09:53,525 - INFO - Processing llama-3-1-8b, Q19
+2025-03-18 00:09:53,525 - INFO -   Repeat 1/5
+2025-03-18 00:09:53,874 - INFO -   Repeat 2/5
+2025-03-18 00:09:57,226 - INFO -   Repeat 3/5
+2025-03-18 00:09:57,540 - INFO -   Repeat 4/5
+2025-03-18 00:09:57,858 - INFO -   Repeat 5/5
+2025-03-18 00:09:58,176 - INFO - Processing llama-3-1-8b, Q20
+2025-03-18 00:09:58,176 - INFO -   Repeat 1/5
+2025-03-18 00:09:59,539 - INFO -   Repeat 2/5
+2025-03-18 00:10:00,814 - INFO -   Repeat 3/5
+2025-03-18 00:10:01,692 - INFO -   Repeat 4/5
+2025-03-18 00:10:03,744 - INFO -   Repeat 5/5
+2025-03-18 00:10:04,724 - INFO - Saved results for llama-3-1-8b to ./model_results/llama-3-1-8b_results_20250318_001004.json
+2025-03-18 00:10:04,724 - INFO - Waiting for gemma-2-9b to become available...
+2025-03-18 00:10:04,724 - INFO - Checking availability of gemma-2-9b at http://localhost:8081...
+2025-03-18 00:10:05,604 - INFO - Model gemma-2-9b is available and responsive
+2025-03-18 00:10:05,605 - INFO - Processing gemma-2-9b, Q1
+2025-03-18 00:10:05,605 - INFO -   Repeat 1/5
+2025-03-18 00:10:06,687 - INFO -   Repeat 2/5
+2025-03-18 00:10:07,481 - INFO -   Repeat 3/5
+2025-03-18 00:10:08,186 - INFO -   Repeat 4/5
+2025-03-18 00:10:09,312 - INFO -   Repeat 5/5
+2025-03-18 00:10:10,402 - INFO - Processing gemma-2-9b, Q2
+2025-03-18 00:10:10,402 - INFO -   Repeat 1/5
+2025-03-18 00:10:10,900 - INFO -   Repeat 2/5
+2025-03-18 00:10:11,420 - INFO -   Repeat 3/5
+2025-03-18 00:10:11,938 - INFO -   Repeat 4/5
+2025-03-18 00:10:12,366 - INFO -   Repeat 5/5
+2025-03-18 00:10:12,884 - INFO - Processing gemma-2-9b, Q3
+2025-03-18 00:10:12,884 - INFO -   Repeat 1/5
+2025-03-18 00:10:13,354 - INFO -   Repeat 2/5
+2025-03-18 00:10:13,782 - INFO -   Repeat 3/5
+2025-03-18 00:10:14,202 - INFO -   Repeat 4/5
+2025-03-18 00:10:14,659 - INFO -   Repeat 5/5
+2025-03-18 00:10:15,135 - INFO - Processing gemma-2-9b, Q4
+2025-03-18 00:10:15,135 - INFO -   Repeat 1/5
+2025-03-18 00:10:15,680 - INFO -   Repeat 2/5
+2025-03-18 00:10:17,483 - INFO -   Repeat 3/5
+2025-03-18 00:10:19,204 - INFO -   Repeat 4/5
+2025-03-18 00:10:21,445 - INFO -   Repeat 5/5
+2025-03-18 00:10:23,230 - INFO - Processing gemma-2-9b, Q5
+2025-03-18 00:10:23,230 - INFO -   Repeat 1/5
+2025-03-18 00:10:23,916 - INFO -   Repeat 2/5
+2025-03-18 00:10:24,417 - INFO -   Repeat 3/5
+2025-03-18 00:10:24,917 - INFO -   Repeat 4/5
+2025-03-18 00:10:25,602 - INFO -   Repeat 5/5
+2025-03-18 00:10:26,102 - INFO - Processing gemma-2-9b, Q6
+2025-03-18 00:10:26,102 - INFO -   Repeat 1/5
+2025-03-18 00:10:26,603 - INFO -   Repeat 2/5
+2025-03-18 00:10:27,126 - INFO -   Repeat 3/5
+2025-03-18 00:10:27,626 - INFO -   Repeat 4/5
+2025-03-18 00:10:28,124 - INFO -   Repeat 5/5
+2025-03-18 00:10:28,507 - INFO - Processing gemma-2-9b, Q7
+2025-03-18 00:10:28,507 - INFO -   Repeat 1/5
+2025-03-18 00:10:29,006 - INFO -   Repeat 2/5
+2025-03-18 00:10:29,507 - INFO -   Repeat 3/5
+2025-03-18 00:10:30,031 - INFO -   Repeat 4/5
+2025-03-18 00:10:30,554 - INFO -   Repeat 5/5
+2025-03-18 00:10:31,077 - INFO - Processing gemma-2-9b, Q8
+2025-03-18 00:10:31,077 - INFO -   Repeat 1/5
+2025-03-18 00:10:32,430 - INFO -   Repeat 2/5
+2025-03-18 00:10:34,441 - INFO -   Repeat 3/5
+2025-03-18 00:10:35,768 - INFO -   Repeat 4/5
+2025-03-18 00:10:37,701 - INFO -   Repeat 5/5
+2025-03-18 00:10:39,281 - INFO - Processing gemma-2-9b, Q9
+2025-03-18 00:10:39,281 - INFO -   Repeat 1/5
+2025-03-18 00:10:39,918 - INFO -   Repeat 2/5
+2025-03-18 00:10:40,553 - INFO -   Repeat 3/5
+2025-03-18 00:10:41,215 - INFO -   Repeat 4/5
+2025-03-18 00:10:41,851 - INFO -   Repeat 5/5
+2025-03-18 00:10:42,487 - INFO - Processing gemma-2-9b, Q10
+2025-03-18 00:10:42,488 - INFO -   Repeat 1/5
+2025-03-18 00:10:43,105 - INFO -   Repeat 2/5
+2025-03-18 00:10:43,722 - INFO -   Repeat 3/5
+2025-03-18 00:10:44,339 - INFO -   Repeat 4/5
+2025-03-18 00:10:44,954 - INFO -   Repeat 5/5
+2025-03-18 00:10:45,570 - INFO - Processing gemma-2-9b, Q11
+2025-03-18 00:10:45,570 - INFO -   Repeat 1/5
+2025-03-18 00:10:46,970 - INFO -   Repeat 2/5
+2025-03-18 00:10:49,297 - INFO -   Repeat 3/5
+2025-03-18 00:10:50,649 - INFO -   Repeat 4/5
+2025-03-18 00:10:52,072 - INFO -   Repeat 5/5
+2025-03-18 00:10:54,401 - INFO - Processing gemma-2-9b, Q12
+2025-03-18 00:10:54,401 - INFO -   Repeat 1/5
+2025-03-18 00:10:54,877 - INFO -   Repeat 2/5
+2025-03-18 00:10:55,355 - INFO -   Repeat 3/5
+2025-03-18 00:10:55,809 - INFO -   Repeat 4/5
+2025-03-18 00:10:56,285 - INFO -   Repeat 5/5
+2025-03-18 00:10:56,761 - INFO - Processing gemma-2-9b, Q13
+2025-03-18 00:10:56,761 - INFO -   Repeat 1/5
+2025-03-18 00:10:57,262 - INFO -   Repeat 2/5
+2025-03-18 00:10:57,670 - INFO -   Repeat 3/5
+2025-03-18 00:10:58,169 - INFO -   Repeat 4/5
+2025-03-18 00:10:58,621 - INFO -   Repeat 5/5
+2025-03-18 00:10:59,122 - INFO - Processing gemma-2-9b, Q14
+2025-03-18 00:10:59,122 - INFO -   Repeat 1/5
+2025-03-18 00:10:59,576 - INFO -   Repeat 2/5
+2025-03-18 00:11:00,402 - INFO -   Repeat 3/5
+2025-03-18 00:11:00,855 - INFO -   Repeat 4/5
+2025-03-18 00:11:01,677 - INFO -   Repeat 5/5
+2025-03-18 00:11:02,130 - INFO - Processing gemma-2-9b, Q15
+2025-03-18 00:11:02,130 - INFO -   Repeat 1/5
+2025-03-18 00:11:03,367 - INFO -   Repeat 2/5
+2025-03-18 00:11:05,026 - INFO -   Repeat 3/5
+2025-03-18 00:11:06,587 - INFO -   Repeat 4/5
+2025-03-18 00:11:07,754 - INFO -   Repeat 5/5
+2025-03-18 00:11:08,990 - INFO - Processing gemma-2-9b, Q16
+2025-03-18 00:11:08,990 - INFO -   Repeat 1/5
+2025-03-18 00:11:10,648 - INFO -   Repeat 2/5
+2025-03-18 00:11:12,493 - INFO -   Repeat 3/5
+2025-03-18 00:11:14,034 - INFO -   Repeat 4/5
+2025-03-18 00:11:15,710 - INFO -   Repeat 5/5
+2025-03-18 00:11:17,900 - INFO - Processing gemma-2-9b, Q17
+2025-03-18 00:11:17,900 - INFO -   Repeat 1/5
+2025-03-18 00:11:19,346 - INFO -   Repeat 2/5
+2025-03-18 00:11:20,449 - INFO -   Repeat 3/5
+2025-03-18 00:11:21,991 - INFO -   Repeat 4/5
+2025-03-18 00:11:22,653 - INFO -   Repeat 5/5
+2025-03-18 00:11:23,315 - INFO - Processing gemma-2-9b, Q18
+2025-03-18 00:11:23,315 - INFO -   Repeat 1/5
+2025-03-18 00:11:25,131 - INFO -   Repeat 2/5
+2025-03-18 00:11:25,817 - INFO -   Repeat 3/5
+2025-03-18 00:11:28,362 - INFO -   Repeat 4/5
+2025-03-18 00:11:29,624 - INFO -   Repeat 5/5
+2025-03-18 00:11:30,882 - INFO - Processing gemma-2-9b, Q19
+2025-03-18 00:11:30,882 - INFO -   Repeat 1/5
+2025-03-18 00:11:33,463 - INFO -   Repeat 2/5
+2025-03-18 00:11:35,855 - INFO -   Repeat 3/5
+2025-03-18 00:11:38,625 - INFO -   Repeat 4/5
+2025-03-18 00:11:41,040 - INFO -   Repeat 5/5
+2025-03-18 00:11:43,620 - INFO - Processing gemma-2-9b, Q20
+2025-03-18 00:11:43,620 - INFO -   Repeat 1/5
+2025-03-18 00:11:44,121 - INFO -   Repeat 2/5
+2025-03-18 00:11:44,621 - INFO -   Repeat 3/5
+2025-03-18 00:11:45,119 - INFO -   Repeat 4/5
+2025-03-18 00:11:45,618 - INFO -   Repeat 5/5
+2025-03-18 00:11:46,164 - INFO - Saved results for gemma-2-9b to ./model_results/gemma-2-9b_results_20250318_001146.json
+2025-03-18 00:11:46,164 - INFO - Waiting for gemma-2-27b to become available...
+2025-03-18 00:11:46,164 - INFO - Checking availability of gemma-2-27b at http://localhost:8082...
+2025-03-18 00:11:47,841 - INFO - Model gemma-2-27b is available and responsive
+2025-03-18 00:11:47,842 - INFO - Processing gemma-2-27b, Q1
+2025-03-18 00:11:47,842 - INFO -   Repeat 1/5
+2025-03-18 00:11:49,576 - INFO -   Repeat 2/5
+2025-03-18 00:11:51,200 - INFO -   Repeat 3/5
+2025-03-18 00:11:52,934 - INFO -   Repeat 4/5
+2025-03-18 00:11:54,576 - INFO -   Repeat 5/5
+2025-03-18 00:11:56,262 - INFO - Processing gemma-2-27b, Q2
+2025-03-18 00:11:56,262 - INFO -   Repeat 1/5
+2025-03-18 00:11:57,297 - INFO -   Repeat 2/5
+2025-03-18 00:11:58,120 - INFO -   Repeat 3/5
+2025-03-18 00:11:59,152 - INFO -   Repeat 4/5
+2025-03-18 00:12:00,184 - INFO -   Repeat 5/5
+2025-03-18 00:12:01,216 - INFO - Processing gemma-2-27b, Q3
+2025-03-18 00:12:01,217 - INFO -   Repeat 1/5
+2025-03-18 00:12:02,144 - INFO -   Repeat 2/5
+2025-03-18 00:12:03,071 - INFO -   Repeat 3/5
+2025-03-18 00:12:03,999 - INFO -   Repeat 4/5
+2025-03-18 00:12:04,927 - INFO -   Repeat 5/5
+2025-03-18 00:12:05,854 - INFO - Processing gemma-2-27b, Q4
+2025-03-18 00:12:05,854 - INFO -   Repeat 1/5
+2025-03-18 00:12:09,196 - INFO -   Repeat 2/5
+2025-03-18 00:12:11,965 - INFO -   Repeat 3/5
+2025-03-18 00:12:14,683 - INFO -   Repeat 4/5
+2025-03-18 00:12:17,503 - INFO -   Repeat 5/5
+2025-03-18 00:12:20,641 - INFO - Processing gemma-2-27b, Q5
+2025-03-18 00:12:20,641 - INFO -   Repeat 1/5
+2025-03-18 00:12:21,727 - INFO -   Repeat 2/5
+2025-03-18 00:12:22,810 - INFO -   Repeat 3/5
+2025-03-18 00:12:23,894 - INFO -   Repeat 4/5
+2025-03-18 00:12:24,979 - INFO -   Repeat 5/5
+2025-03-18 00:12:26,063 - INFO - Processing gemma-2-27b, Q6
+2025-03-18 00:12:26,063 - INFO -   Repeat 1/5
+2025-03-18 00:12:27,148 - INFO -   Repeat 2/5
+2025-03-18 00:12:28,253 - INFO -   Repeat 3/5
+2025-03-18 00:12:29,339 - INFO -   Repeat 4/5
+2025-03-18 00:12:30,424 - INFO -   Repeat 5/5
+2025-03-18 00:12:31,476 - INFO - Processing gemma-2-27b, Q7
+2025-03-18 00:12:31,476 - INFO -   Repeat 1/5
+2025-03-18 00:12:32,562 - INFO -   Repeat 2/5
+2025-03-18 00:12:33,647 - INFO -   Repeat 3/5
+2025-03-18 00:12:34,749 - INFO -   Repeat 4/5
+2025-03-18 00:12:35,836 - INFO -   Repeat 5/5
+2025-03-18 00:12:36,920 - INFO - Processing gemma-2-27b, Q8
+2025-03-18 00:12:36,920 - INFO -   Repeat 1/5
+2025-03-18 00:12:41,355 - INFO -   Repeat 2/5
+2025-03-18 00:12:46,206 - INFO -   Repeat 3/5
+2025-03-18 00:12:52,033 - INFO -   Repeat 4/5
+2025-03-18 00:12:56,795 - INFO -   Repeat 5/5
+2025-03-18 00:13:01,918 - INFO - Processing gemma-2-27b, Q9
+2025-03-18 00:13:01,918 - INFO -   Repeat 1/5
+2025-03-18 00:13:03,387 - INFO -   Repeat 2/5
+2025-03-18 00:13:04,751 - INFO -   Repeat 3/5
+2025-03-18 00:13:06,218 - INFO -   Repeat 4/5
+2025-03-18 00:13:07,582 - INFO -   Repeat 5/5
+2025-03-18 00:13:08,946 - INFO - Processing gemma-2-27b, Q10
+2025-03-18 00:13:08,946 - INFO -   Repeat 1/5
+2025-03-18 00:13:10,417 - INFO -   Repeat 2/5
+2025-03-18 00:13:11,836 - INFO -   Repeat 3/5
+2025-03-18 00:13:13,308 - INFO -   Repeat 4/5
+2025-03-18 00:13:14,729 - INFO -   Repeat 5/5
+2025-03-18 00:13:16,203 - INFO - Processing gemma-2-27b, Q11
+2025-03-18 00:13:16,203 - INFO -   Repeat 1/5
+2025-03-18 00:13:19,341 - INFO -   Repeat 2/5
+2025-03-18 00:13:22,430 - INFO -   Repeat 3/5
+2025-03-18 00:13:25,471 - INFO -   Repeat 4/5
+2025-03-18 00:13:31,263 - INFO -   Repeat 5/5
+2025-03-18 00:13:36,639 - INFO - Processing gemma-2-27b, Q12
+2025-03-18 00:13:36,639 - INFO -   Repeat 1/5
+2025-03-18 00:13:37,623 - INFO -   Repeat 2/5
+2025-03-18 00:13:38,851 - INFO -   Repeat 3/5
+2025-03-18 00:13:39,850 - INFO -   Repeat 4/5
+2025-03-18 00:13:40,832 - INFO -   Repeat 5/5
+2025-03-18 00:13:41,762 - INFO - Processing gemma-2-27b, Q13
+2025-03-18 00:13:41,762 - INFO -   Repeat 1/5
+2025-03-18 00:13:42,920 - INFO -   Repeat 2/5
+2025-03-18 00:13:43,952 - INFO -   Repeat 3/5
+2025-03-18 00:13:45,089 - INFO -   Repeat 4/5
+2025-03-18 00:13:46,124 - INFO -   Repeat 5/5
+2025-03-18 00:13:47,262 - INFO - Processing gemma-2-27b, Q14
+2025-03-18 00:13:47,262 - INFO -   Repeat 1/5
+2025-03-18 00:13:48,246 - INFO -   Repeat 2/5
+2025-03-18 00:13:49,228 - INFO -   Repeat 3/5
+2025-03-18 00:13:50,210 - INFO -   Repeat 4/5
+2025-03-18 00:13:51,194 - INFO -   Repeat 5/5
+2025-03-18 00:13:52,177 - INFO - Processing gemma-2-27b, Q15
+2025-03-18 00:13:52,177 - INFO -   Repeat 1/5
+2025-03-18 00:13:54,895 - INFO -   Repeat 2/5
+2025-03-18 00:13:57,940 - INFO -   Repeat 3/5
+2025-03-18 00:14:00,418 - INFO -   Repeat 4/5
+2025-03-18 00:14:03,142 - INFO -   Repeat 5/5
+2025-03-18 00:14:05,449 - INFO - Processing gemma-2-27b, Q16
+2025-03-18 00:14:05,449 - INFO -   Repeat 1/5
+2025-03-18 00:14:10,670 - INFO -   Repeat 2/5
+2025-03-18 00:14:15,473 - INFO -   Repeat 3/5
+2025-03-18 00:14:20,380 - INFO -   Repeat 4/5
+2025-03-18 00:14:24,609 - INFO -   Repeat 5/5
+2025-03-18 00:14:29,359 - INFO - Processing gemma-2-27b, Q17
+2025-03-18 00:14:29,359 - INFO -   Repeat 1/5
+2025-03-18 00:14:30,831 - INFO -   Repeat 2/5
+2025-03-18 00:14:32,303 - INFO -   Repeat 3/5
+2025-03-18 00:14:33,724 - INFO -   Repeat 4/5
+2025-03-18 00:14:35,198 - INFO -   Repeat 5/5
+2025-03-18 00:14:36,671 - INFO - Processing gemma-2-27b, Q18
+2025-03-18 00:14:36,671 - INFO -   Repeat 1/5
+2025-03-18 00:14:42,408 - INFO -   Repeat 2/5
+2025-03-18 00:14:51,010 - INFO -   Repeat 3/5
+2025-03-18 00:14:57,845 - INFO -   Repeat 4/5
+2025-03-18 00:15:03,136 - INFO -   Repeat 5/5
+2025-03-18 00:15:08,466 - INFO - Processing gemma-2-27b, Q19
+2025-03-18 00:15:08,466 - INFO -   Repeat 1/5
+2025-03-18 00:15:14,728 - INFO -   Repeat 2/5
+2025-03-18 00:15:21,618 - INFO -   Repeat 3/5
+2025-03-18 00:15:27,678 - INFO -   Repeat 4/5
+2025-03-18 00:15:34,777 - INFO -   Repeat 5/5
+2025-03-18 00:15:38,434 - INFO - Processing gemma-2-27b, Q20
+2025-03-18 00:15:38,434 - INFO -   Repeat 1/5
+2025-03-18 00:15:39,712 - INFO -   Repeat 2/5
+2025-03-18 00:15:40,753 - INFO -   Repeat 3/5
+2025-03-18 00:15:41,789 - INFO -   Repeat 4/5
+2025-03-18 00:15:42,900 - INFO -   Repeat 5/5
+2025-03-18 00:15:44,032 - INFO - Saved results for gemma-2-27b to ./model_results/gemma-2-27b_results_20250318_001543.json
+2025-03-18 00:15:44,038 - INFO - Saved raw data to ./results/raw_results_20250318_001544.pkl and ./results/raw_results_20250318_001544.json
+2025-03-18 00:15:44,042 - INFO - Saved raw data to ./results/raw_results_20250318_001544.pkl and ./results/raw_results_20250318_001544.json
+2025-03-18 00:15:44,047 - INFO - Analyzing results from ./results/raw_results_20250318_001544.pkl
+2025-03-18 00:15:44,047 - INFO - Models: ['llama-3-1-8b', 'gemma-2-9b', 'gemma-2-27b']
+2025-03-18 00:15:44,047 - INFO - Questions: 20
+2025-03-18 00:15:44,273 - INFO - Saved distance matrix plot to ./analysis_20250318_001544/distance_matrix.png
+2025-03-18 00:15:44,371 - INFO - Saved mean standard deviation plot to ./analysis_20250318_001544/mean_stddev.png
+2025-03-18 00:15:44,429 - INFO - Saved RMS scatter plot to ./analysis_20250318_001544/rms_scatter.png
+2025-03-18 00:21:30,379 - INFO - Experiment started at 2025-03-18 00:21:30.379672
+2025-03-18 00:21:30,379 - INFO - Testing models: ['llama-3-1-8b', 'gemma-2-9b', 'gemma-2-27b']
+2025-03-18 00:21:30,379 - INFO - Number of questions: 20
+2025-03-18 00:21:30,379 - INFO - Repeats per question: 5
+2025-03-18 00:21:30,379 - INFO - Timeout: 16 seconds
+2025-03-18 00:21:30,379 - INFO - Concurrency: 15 workers
+2025-03-18 00:21:30,379 - INFO - Delay between requests: 0.00625 seconds
+2025-03-18 00:21:30,379 - INFO - Total API calls expected: 300
+2025-03-18 00:21:30,379 - INFO - Waiting for llama-3-1-8b to become available...
+2025-03-18 00:21:30,380 - INFO - Checking availability of llama-3-1-8b at http://localhost:8080...
+2025-03-18 00:21:31,098 - INFO - Model llama-3-1-8b is available and responsive
+2025-03-18 00:21:31,099 - INFO - Processing llama-3-1-8b, Q1
+2025-03-18 00:21:31,099 - INFO -   Repeat 1/5
+2025-03-18 00:21:31,739 - INFO -   Repeat 2/5
+2025-03-18 00:21:32,883 - INFO -   Repeat 3/5
+2025-03-18 00:21:35,181 - INFO -   Repeat 4/5
+2025-03-18 00:21:36,188 - INFO -   Repeat 5/5
+2025-03-18 00:21:37,548 - INFO - Processing llama-3-1-8b, Q2
+2025-03-18 00:21:37,549 - INFO -   Repeat 1/5
+2025-03-18 00:21:38,435 - INFO -   Repeat 2/5
+2025-03-18 00:21:39,748 - INFO -   Repeat 3/5
+2025-03-18 00:21:41,706 - INFO -   Repeat 4/5
+2025-03-18 00:21:44,147 - INFO -   Repeat 5/5
+2025-03-18 00:21:47,118 - INFO - Processing llama-3-1-8b, Q3
+2025-03-18 00:21:47,118 - INFO -   Repeat 1/5
+2025-03-18 00:21:47,443 - INFO -   Repeat 2/5
+2025-03-18 00:21:47,721 - INFO -   Repeat 3/5
+2025-03-18 00:21:47,999 - INFO -   Repeat 4/5
+2025-03-18 00:21:48,277 - INFO -   Repeat 5/5
+2025-03-18 00:21:48,556 - INFO - Processing llama-3-1-8b, Q4
+2025-03-18 00:21:48,556 - INFO -   Repeat 1/5
+2025-03-18 00:21:49,284 - INFO -   Repeat 2/5
+2025-03-18 00:21:49,979 - INFO -   Repeat 3/5
+2025-03-18 00:21:50,706 - INFO -   Repeat 4/5
+2025-03-18 00:21:51,034 - INFO -   Repeat 5/5
+2025-03-18 00:21:51,896 - INFO - Processing llama-3-1-8b, Q5
+2025-03-18 00:21:51,896 - INFO -   Repeat 1/5
+2025-03-18 00:21:54,319 - INFO -   Repeat 2/5
+2025-03-18 00:21:55,230 - INFO -   Repeat 3/5
+2025-03-18 00:21:57,301 - INFO -   Repeat 4/5
+2025-03-18 00:21:57,679 - INFO -   Repeat 5/5
+2025-03-18 00:21:59,578 - INFO - Processing llama-3-1-8b, Q6
+2025-03-18 00:21:59,578 - INFO -   Repeat 1/5
+2025-03-18 00:21:59,907 - INFO -   Repeat 2/5
+2025-03-18 00:22:01,004 - INFO -   Repeat 3/5
+2025-03-18 00:22:01,616 - INFO -   Repeat 4/5
+2025-03-18 00:22:01,945 - INFO -   Repeat 5/5
+2025-03-18 00:22:02,556 - INFO - Processing llama-3-1-8b, Q7
+2025-03-18 00:22:02,556 - INFO -   Repeat 1/5
+2025-03-18 00:22:04,343 - INFO -   Repeat 2/5
+2025-03-18 00:22:07,406 - INFO -   Repeat 3/5
+2025-03-18 00:22:09,225 - INFO -   Repeat 4/5
+2025-03-18 00:22:11,815 - INFO -   Repeat 5/5
+2025-03-18 00:22:13,386 - INFO - Processing llama-3-1-8b, Q8
+2025-03-18 00:22:13,386 - INFO -   Repeat 1/5
+2025-03-18 00:22:14,248 - INFO -   Repeat 2/5
+2025-03-18 00:22:15,882 - INFO -   Repeat 3/5
+2025-03-18 00:22:16,577 - INFO -   Repeat 4/5
+2025-03-18 00:22:18,802 - INFO -   Repeat 5/5
+2025-03-18 00:22:19,951 - INFO - Processing llama-3-1-8b, Q9
+2025-03-18 00:22:19,951 - INFO -   Repeat 1/5
+2025-03-18 00:22:22,978 - INFO -   Repeat 2/5
+2025-03-18 00:22:24,203 - INFO -   Repeat 3/5
+2025-03-18 00:22:25,081 - INFO -   Repeat 4/5
+2025-03-18 00:22:26,075 - INFO -   Repeat 5/5
+2025-03-18 00:22:27,408 - INFO - Processing llama-3-1-8b, Q10
+2025-03-18 00:22:27,408 - INFO -   Repeat 1/5
+2025-03-18 00:22:27,881 - INFO -   Repeat 2/5
+2025-03-18 00:22:28,286 - INFO -   Repeat 3/5
+2025-03-18 00:22:28,775 - INFO -   Repeat 4/5
+2025-03-18 00:22:29,197 - INFO -   Repeat 5/5
+2025-03-18 00:22:29,637 - INFO - Processing llama-3-1-8b, Q11
+2025-03-18 00:22:29,637 - INFO -   Repeat 1/5
+2025-03-18 00:22:30,398 - INFO -   Repeat 2/5
+2025-03-18 00:22:32,821 - INFO -   Repeat 3/5
+2025-03-18 00:22:35,602 - INFO -   Repeat 4/5
+2025-03-18 00:22:39,050 - INFO -   Repeat 5/5
+2025-03-18 00:22:39,997 - INFO - Processing llama-3-1-8b, Q12
+2025-03-18 00:22:39,997 - INFO -   Repeat 1/5
+2025-03-18 00:22:40,275 - INFO -   Repeat 2/5
+2025-03-18 00:22:40,553 - INFO -   Repeat 3/5
+2025-03-18 00:22:40,831 - INFO -   Repeat 4/5
+2025-03-18 00:22:41,109 - INFO -   Repeat 5/5
+2025-03-18 00:22:41,386 - INFO - Processing llama-3-1-8b, Q13
+2025-03-18 00:22:41,386 - INFO -   Repeat 1/5
+2025-03-18 00:22:42,381 - INFO -   Repeat 2/5
+2025-03-18 00:22:43,581 - INFO -   Repeat 3/5
+2025-03-18 00:22:44,078 - INFO -   Repeat 4/5
+2025-03-18 00:22:44,989 - INFO -   Repeat 5/5
+2025-03-18 00:22:45,952 - INFO - Processing llama-3-1-8b, Q14
+2025-03-18 00:22:45,952 - INFO -   Repeat 1/5
+2025-03-18 00:22:46,264 - INFO -   Repeat 2/5
+2025-03-18 00:22:46,575 - INFO -   Repeat 3/5
+2025-03-18 00:22:46,887 - INFO -   Repeat 4/5
+2025-03-18 00:22:47,198 - INFO -   Repeat 5/5
+2025-03-18 00:22:47,510 - INFO - Processing llama-3-1-8b, Q15
+2025-03-18 00:22:47,510 - INFO -   Repeat 1/5
+2025-03-18 00:22:50,949 - INFO -   Repeat 2/5
+2025-03-18 00:22:53,204 - INFO -   Repeat 3/5
+2025-03-18 00:22:54,546 - INFO -   Repeat 4/5
+2025-03-18 00:22:55,127 - INFO -   Repeat 5/5
+2025-03-18 00:22:56,510 - INFO - Processing llama-3-1-8b, Q16
+2025-03-18 00:22:56,510 - INFO -   Repeat 1/5
+2025-03-18 00:22:58,044 - INFO -   Repeat 2/5
+2025-03-18 00:22:58,570 - INFO -   Repeat 3/5
+2025-03-18 00:22:59,114 - INFO -   Repeat 4/5
+2025-03-18 00:22:59,658 - INFO -   Repeat 5/5
+2025-03-18 00:23:01,274 - INFO - Processing llama-3-1-8b, Q17
+2025-03-18 00:23:01,274 - INFO -   Repeat 1/5
+2025-03-18 00:23:02,205 - INFO -   Repeat 2/5
+2025-03-18 00:23:02,551 - INFO -   Repeat 3/5
+2025-03-18 00:23:03,564 - INFO -   Repeat 4/5
+2025-03-18 00:23:03,943 - INFO -   Repeat 5/5
+2025-03-18 00:23:04,289 - INFO - Processing llama-3-1-8b, Q18
+2025-03-18 00:23:04,289 - INFO -   Repeat 1/5
+2025-03-18 00:23:05,123 - INFO -   Repeat 2/5
+2025-03-18 00:23:06,357 - INFO -   Repeat 3/5
+2025-03-18 00:23:07,705 - INFO -   Repeat 4/5
+2025-03-18 00:23:08,704 - INFO -   Repeat 5/5
+2025-03-18 00:23:09,701 - INFO - Processing llama-3-1-8b, Q19
+2025-03-18 00:23:09,701 - INFO -   Repeat 1/5
+2025-03-18 00:23:10,013 - INFO -   Repeat 2/5
+2025-03-18 00:23:10,325 - INFO -   Repeat 3/5
+2025-03-18 00:23:10,637 - INFO -   Repeat 4/5
+2025-03-18 00:23:10,982 - INFO -   Repeat 5/5
+2025-03-18 00:23:11,294 - INFO - Processing llama-3-1-8b, Q20
+2025-03-18 00:23:11,294 - INFO -   Repeat 1/5
+2025-03-18 00:23:13,045 - INFO -   Repeat 2/5
+2025-03-18 00:23:13,957 - INFO -   Repeat 3/5
+2025-03-18 00:23:15,525 - INFO -   Repeat 4/5
+2025-03-18 00:23:16,437 - INFO -   Repeat 5/5
+2025-03-18 00:23:17,552 - INFO - Saved results for llama-3-1-8b to ./model_results/llama-3-1-8b_results_20250318_002317.json
+2025-03-18 00:23:17,552 - INFO - Waiting for gemma-2-9b to become available...
+2025-03-18 00:23:17,552 - INFO - Checking availability of gemma-2-9b at http://localhost:8081...
+2025-03-18 00:23:18,373 - INFO - Model gemma-2-9b is available and responsive
+2025-03-18 00:23:18,373 - INFO - Processing gemma-2-9b, Q1
+2025-03-18 00:23:18,373 - INFO -   Repeat 1/5
+2025-03-18 00:23:19,500 - INFO -   Repeat 2/5
+2025-03-18 00:23:20,559 - INFO -   Repeat 3/5
+2025-03-18 00:23:21,639 - INFO -   Repeat 4/5
+2025-03-18 00:23:22,746 - INFO -   Repeat 5/5
+2025-03-18 00:23:23,828 - INFO - Processing gemma-2-9b, Q2
+2025-03-18 00:23:23,828 - INFO -   Repeat 1/5
+2025-03-18 00:23:24,330 - INFO -   Repeat 2/5
+2025-03-18 00:23:24,831 - INFO -   Repeat 3/5
+2025-03-18 00:23:25,330 - INFO -   Repeat 4/5
+2025-03-18 00:23:25,830 - INFO -   Repeat 5/5
+2025-03-18 00:23:26,330 - INFO - Processing gemma-2-9b, Q3
+2025-03-18 00:23:26,331 - INFO -   Repeat 1/5
+2025-03-18 00:23:26,714 - INFO -   Repeat 2/5
+2025-03-18 00:23:27,168 - INFO -   Repeat 3/5
+2025-03-18 00:23:27,598 - INFO -   Repeat 4/5
+2025-03-18 00:23:28,051 - INFO -   Repeat 5/5
+2025-03-18 00:23:28,457 - INFO - Processing gemma-2-9b, Q4
+2025-03-18 00:23:28,457 - INFO -   Repeat 1/5
+2025-03-18 00:23:29,744 - INFO -   Repeat 2/5
+2025-03-18 00:23:31,049 - INFO -   Repeat 3/5
+2025-03-18 00:23:31,572 - INFO -   Repeat 4/5
+2025-03-18 00:23:32,808 - INFO -   Repeat 5/5
+2025-03-18 00:23:34,051 - INFO - Processing gemma-2-9b, Q5
+2025-03-18 00:23:34,051 - INFO -   Repeat 1/5
+2025-03-18 00:23:34,783 - INFO -   Repeat 2/5
+2025-03-18 00:23:35,282 - INFO -   Repeat 3/5
+2025-03-18 00:23:35,945 - INFO -   Repeat 4/5
+2025-03-18 00:23:36,653 - INFO -   Repeat 5/5
+2025-03-18 00:23:37,337 - INFO - Processing gemma-2-9b, Q6
+2025-03-18 00:23:37,337 - INFO -   Repeat 1/5
+2025-03-18 00:23:37,862 - INFO -   Repeat 2/5
+2025-03-18 00:23:38,386 - INFO -   Repeat 3/5
+2025-03-18 00:23:38,885 - INFO -   Repeat 4/5
+2025-03-18 00:23:39,826 - INFO -   Repeat 5/5
+2025-03-18 00:23:40,839 - INFO - Processing gemma-2-9b, Q7
+2025-03-18 00:23:40,839 - INFO -   Repeat 1/5
+2025-03-18 00:23:41,338 - INFO -   Repeat 2/5
+2025-03-18 00:23:41,840 - INFO -   Repeat 3/5
+2025-03-18 00:23:42,339 - INFO -   Repeat 4/5
+2025-03-18 00:23:42,839 - INFO -   Repeat 5/5
+2025-03-18 00:23:43,361 - INFO - Processing gemma-2-9b, Q8
+2025-03-18 00:23:43,361 - INFO -   Repeat 1/5
+2025-03-18 00:23:44,832 - INFO -   Repeat 2/5
+2025-03-18 00:23:50,305 - INFO -   Repeat 3/5
+2025-03-18 00:23:54,282 - INFO -   Repeat 4/5
+2025-03-18 00:23:56,518 - INFO -   Repeat 5/5
+2025-03-18 00:23:59,342 - INFO - Processing gemma-2-9b, Q9
+2025-03-18 00:23:59,342 - INFO -   Repeat 1/5
+2025-03-18 00:23:59,980 - INFO -   Repeat 2/5
+2025-03-18 00:24:00,618 - INFO -   Repeat 3/5
+2025-03-18 00:24:01,258 - INFO -   Repeat 4/5
+2025-03-18 00:24:02,664 - INFO -   Repeat 5/5
+2025-03-18 00:24:03,303 - INFO - Processing gemma-2-9b, Q10
+2025-03-18 00:24:03,303 - INFO -   Repeat 1/5
+2025-03-18 00:24:03,922 - INFO -   Repeat 2/5
+2025-03-18 00:24:04,539 - INFO -   Repeat 3/5
+2025-03-18 00:24:05,156 - INFO -   Repeat 4/5
+2025-03-18 00:24:05,772 - INFO -   Repeat 5/5
+2025-03-18 00:24:06,389 - INFO - Processing gemma-2-9b, Q11
+2025-03-18 00:24:06,389 - INFO -   Repeat 1/5
+2025-03-18 00:24:07,791 - INFO -   Repeat 2/5
+2025-03-18 00:24:10,148 - INFO -   Repeat 3/5
+2025-03-18 00:24:11,455 - INFO -   Repeat 4/5
+2025-03-18 00:24:12,812 - INFO -   Repeat 5/5
+2025-03-18 00:24:14,226 - INFO - Processing gemma-2-9b, Q12
+2025-03-18 00:24:14,226 - INFO -   Repeat 1/5
+2025-03-18 00:24:14,704 - INFO -   Repeat 2/5
+2025-03-18 00:24:15,182 - INFO -   Repeat 3/5
+2025-03-18 00:24:15,658 - INFO -   Repeat 4/5
+2025-03-18 00:24:16,133 - INFO -   Repeat 5/5
+2025-03-18 00:24:16,609 - INFO - Processing gemma-2-9b, Q13
+2025-03-18 00:24:16,609 - INFO -   Repeat 1/5
+2025-03-18 00:24:17,108 - INFO -   Repeat 2/5
+2025-03-18 00:24:17,608 - INFO -   Repeat 3/5
+2025-03-18 00:24:18,270 - INFO -   Repeat 4/5
+2025-03-18 00:24:18,770 - INFO -   Repeat 5/5
+2025-03-18 00:24:19,269 - INFO - Processing gemma-2-9b, Q14
+2025-03-18 00:24:19,269 - INFO -   Repeat 1/5
+2025-03-18 00:24:19,746 - INFO -   Repeat 2/5
+2025-03-18 00:24:20,199 - INFO -   Repeat 3/5
+2025-03-18 00:24:21,023 - INFO -   Repeat 4/5
+2025-03-18 00:24:21,477 - INFO -   Repeat 5/5
+2025-03-18 00:24:21,930 - INFO - Processing gemma-2-9b, Q15
+2025-03-18 00:24:21,930 - INFO -   Repeat 1/5
+2025-03-18 00:24:23,164 - INFO -   Repeat 2/5
+2025-03-18 00:24:24,565 - INFO -   Repeat 3/5
+2025-03-18 00:24:25,803 - INFO -   Repeat 4/5
+2025-03-18 00:24:27,043 - INFO -   Repeat 5/5
+2025-03-18 00:24:28,331 - INFO - Processing gemma-2-9b, Q16
+2025-03-18 00:24:28,331 - INFO -   Repeat 1/5
+2025-03-18 00:24:29,874 - INFO -   Repeat 2/5
+2025-03-18 00:24:31,421 - INFO -   Repeat 3/5
+2025-03-18 00:24:34,812 - INFO -   Repeat 4/5
+2025-03-18 00:24:36,701 - INFO -   Repeat 5/5
+2025-03-18 00:24:37,574 - INFO - Processing gemma-2-9b, Q17
+2025-03-18 00:24:37,574 - INFO -   Repeat 1/5
+2025-03-18 00:24:38,905 - INFO -   Repeat 2/5
+2025-03-18 00:24:40,143 - INFO -   Repeat 3/5
+2025-03-18 00:24:41,547 - INFO -   Repeat 4/5
+2025-03-18 00:24:43,843 - INFO -   Repeat 5/5
+2025-03-18 00:24:45,036 - INFO - Processing gemma-2-9b, Q18
+2025-03-18 00:24:45,036 - INFO -   Repeat 1/5
+2025-03-18 00:24:46,877 - INFO -   Repeat 2/5
+2025-03-18 00:24:48,255 - INFO -   Repeat 3/5
+2025-03-18 00:24:49,517 - INFO -   Repeat 4/5
+2025-03-18 00:24:53,215 - INFO -   Repeat 5/5
+2025-03-18 00:24:54,709 - INFO - Processing gemma-2-9b, Q19
+2025-03-18 00:24:54,709 - INFO -   Repeat 1/5
+2025-03-18 00:24:57,339 - INFO -   Repeat 2/5
+2025-03-18 00:25:00,066 - INFO -   Repeat 3/5
+2025-03-18 00:25:02,142 - INFO -   Repeat 4/5
+2025-03-18 00:25:04,653 - INFO -   Repeat 5/5
+2025-03-18 00:25:07,192 - INFO - Processing gemma-2-9b, Q20
+2025-03-18 00:25:07,192 - INFO -   Repeat 1/5
+2025-03-18 00:25:07,692 - INFO -   Repeat 2/5
+2025-03-18 00:25:08,191 - INFO -   Repeat 3/5
+2025-03-18 00:25:08,691 - INFO -   Repeat 4/5
+2025-03-18 00:25:09,191 - INFO -   Repeat 5/5
+2025-03-18 00:25:09,738 - INFO - Saved results for gemma-2-9b to ./model_results/gemma-2-9b_results_20250318_002509.json
+2025-03-18 00:25:09,738 - INFO - Waiting for gemma-2-27b to become available...
+2025-03-18 00:25:09,738 - INFO - Checking availability of gemma-2-27b at http://localhost:8082...
+2025-03-18 00:25:11,453 - INFO - Model gemma-2-27b is available and responsive
+2025-03-18 00:25:11,453 - INFO - Processing gemma-2-27b, Q1
+2025-03-18 00:25:11,453 - INFO -   Repeat 1/5
+2025-03-18 00:25:13,136 - INFO -   Repeat 2/5
+2025-03-18 00:25:15,810 - INFO -   Repeat 3/5
+2025-03-18 00:25:18,069 - INFO -   Repeat 4/5
+2025-03-18 00:25:19,767 - INFO -   Repeat 5/5
+2025-03-18 00:25:21,452 - INFO - Processing gemma-2-27b, Q2
+2025-03-18 00:25:21,452 - INFO -   Repeat 1/5
+2025-03-18 00:25:22,486 - INFO -   Repeat 2/5
+2025-03-18 00:25:23,519 - INFO -   Repeat 3/5
+2025-03-18 00:25:24,551 - INFO -   Repeat 4/5
+2025-03-18 00:25:25,583 - INFO -   Repeat 5/5
+2025-03-18 00:25:26,614 - INFO - Processing gemma-2-27b, Q3
+2025-03-18 00:25:26,614 - INFO -   Repeat 1/5
+2025-03-18 00:25:27,543 - INFO -   Repeat 2/5
+2025-03-18 00:25:28,471 - INFO -   Repeat 3/5
+2025-03-18 00:25:29,399 - INFO -   Repeat 4/5
+2025-03-18 00:25:29,858 - INFO -   Repeat 5/5
+2025-03-18 00:25:30,786 - INFO - Processing gemma-2-27b, Q4
+2025-03-18 00:25:30,786 - INFO -   Repeat 1/5
+2025-03-18 00:25:34,024 - INFO -   Repeat 2/5
+2025-03-18 00:25:37,371 - INFO -   Repeat 3/5
+2025-03-18 00:25:40,660 - INFO -   Repeat 4/5
+2025-03-18 00:25:43,949 - INFO -   Repeat 5/5
+2025-03-18 00:25:47,241 - INFO - Processing gemma-2-27b, Q5
+2025-03-18 00:25:47,241 - INFO -   Repeat 1/5
+2025-03-18 00:25:48,347 - INFO -   Repeat 2/5
+2025-03-18 00:25:49,432 - INFO -   Repeat 3/5
+2025-03-18 00:25:50,516 - INFO -   Repeat 4/5
+2025-03-18 00:25:51,619 - INFO -   Repeat 5/5
+2025-03-18 00:25:52,706 - INFO - Processing gemma-2-27b, Q6
+2025-03-18 00:25:52,706 - INFO -   Repeat 1/5
+2025-03-18 00:25:53,795 - INFO -   Repeat 2/5
+2025-03-18 00:25:54,898 - INFO -   Repeat 3/5
+2025-03-18 00:25:55,933 - INFO -   Repeat 4/5
+2025-03-18 00:25:57,020 - INFO -   Repeat 5/5
+2025-03-18 00:25:58,054 - INFO - Processing gemma-2-27b, Q7
+2025-03-18 00:25:58,054 - INFO -   Repeat 1/5
+2025-03-18 00:25:59,087 - INFO -   Repeat 2/5
+2025-03-18 00:26:00,192 - INFO -   Repeat 3/5
+2025-03-18 00:26:01,278 - INFO -   Repeat 4/5
+2025-03-18 00:26:02,363 - INFO -   Repeat 5/5
+2025-03-18 00:26:04,876 - INFO - Processing gemma-2-27b, Q8
+2025-03-18 00:26:04,876 - INFO -   Repeat 1/5
+2025-03-18 00:26:09,627 - INFO -   Repeat 2/5
+2025-03-18 00:26:15,163 - INFO -   Repeat 3/5
+2025-03-18 00:26:18,926 - INFO -   Repeat 4/5
+2025-03-18 00:26:23,368 - INFO -   Repeat 5/5
+2025-03-18 00:26:27,760 - INFO - Processing gemma-2-27b, Q9
+2025-03-18 00:26:27,760 - INFO -   Repeat 1/5
+2025-03-18 00:26:29,126 - INFO -   Repeat 2/5
+2025-03-18 00:26:30,492 - INFO -   Repeat 3/5
+2025-03-18 00:26:31,963 - INFO -   Repeat 4/5
+2025-03-18 00:26:33,328 - INFO -   Repeat 5/5
+2025-03-18 00:26:34,695 - INFO - Processing gemma-2-27b, Q10
+2025-03-18 00:26:34,695 - INFO -   Repeat 1/5
+2025-03-18 00:26:36,170 - INFO -   Repeat 2/5
+2025-03-18 00:26:37,644 - INFO -   Repeat 3/5
+2025-03-18 00:26:39,066 - INFO -   Repeat 4/5
+2025-03-18 00:26:40,539 - INFO -   Repeat 5/5
+2025-03-18 00:26:42,014 - INFO - Processing gemma-2-27b, Q11
+2025-03-18 00:26:42,014 - INFO -   Repeat 1/5
+2025-03-18 00:26:47,842 - INFO -   Repeat 2/5
+2025-03-18 00:26:52,707 - INFO -   Repeat 3/5
+2025-03-18 00:26:58,038 - INFO -   Repeat 4/5
+2025-03-18 00:27:03,549 - INFO -   Repeat 5/5
+2025-03-18 00:27:08,574 - INFO - Processing gemma-2-27b, Q12
+2025-03-18 00:27:08,574 - INFO -   Repeat 1/5
+2025-03-18 00:27:09,847 - INFO -   Repeat 2/5
+2025-03-18 00:27:11,110 - INFO -   Repeat 3/5
+2025-03-18 00:27:12,326 - INFO -   Repeat 4/5
+2025-03-18 00:27:13,310 - INFO -   Repeat 5/5
+2025-03-18 00:27:14,295 - INFO - Processing gemma-2-27b, Q13
+2025-03-18 00:27:14,295 - INFO -   Repeat 1/5
+2025-03-18 00:27:15,356 - INFO -   Repeat 2/5
+2025-03-18 00:27:16,493 - INFO -   Repeat 3/5
+2025-03-18 00:27:17,320 - INFO -   Repeat 4/5
+2025-03-18 00:27:18,146 - INFO -   Repeat 5/5
+2025-03-18 00:27:19,179 - INFO - Processing gemma-2-27b, Q14
+2025-03-18 00:27:19,179 - INFO -   Repeat 1/5
+2025-03-18 00:27:20,111 - INFO -   Repeat 2/5
+2025-03-18 00:27:21,042 - INFO -   Repeat 3/5
+2025-03-18 00:27:22,025 - INFO -   Repeat 4/5
+2025-03-18 00:27:23,007 - INFO -   Repeat 5/5
+2025-03-18 00:27:23,937 - INFO - Processing gemma-2-27b, Q15
+2025-03-18 00:27:23,937 - INFO -   Repeat 1/5
+2025-03-18 00:27:27,392 - INFO -   Repeat 2/5
+2025-03-18 00:27:30,111 - INFO -   Repeat 3/5
+2025-03-18 00:27:32,733 - INFO -   Repeat 4/5
+2025-03-18 00:27:35,246 - INFO -   Repeat 5/5
+2025-03-18 00:27:37,969 - INFO - Processing gemma-2-27b, Q16
+2025-03-18 00:27:37,969 - INFO -   Repeat 1/5
+2025-03-18 00:27:42,616 - INFO -   Repeat 2/5
+2025-03-18 00:27:47,785 - INFO -   Repeat 3/5
+2025-03-18 00:27:53,270 - INFO -   Repeat 4/5
+2025-03-18 00:27:57,555 - INFO -   Repeat 5/5
+2025-03-18 00:28:02,835 - INFO - Processing gemma-2-27b, Q17
+2025-03-18 00:28:02,835 - INFO -   Repeat 1/5
+2025-03-18 00:28:04,308 - INFO -   Repeat 2/5
+2025-03-18 00:28:05,729 - INFO -   Repeat 3/5
+2025-03-18 00:28:07,204 - INFO -   Repeat 4/5
+2025-03-18 00:28:08,624 - INFO -   Repeat 5/5
+2025-03-18 00:28:10,103 - INFO - Processing gemma-2-27b, Q18
+2025-03-18 00:28:10,103 - INFO -   Repeat 1/5
+2025-03-18 00:28:13,967 - INFO -   Repeat 2/5
+2025-03-18 00:28:20,178 - INFO -   Repeat 3/5
+2025-03-18 00:28:25,810 - INFO -   Repeat 4/5
+2025-03-18 00:28:30,253 - INFO -   Repeat 5/5
+2025-03-18 00:28:31,289 - INFO - Processing gemma-2-27b, Q19
+2025-03-18 00:28:31,289 - INFO -   Repeat 1/5
+2025-03-18 00:28:39,791 - INFO -   Repeat 2/5
+2025-03-18 00:28:45,020 - INFO -   Repeat 3/5
+2025-03-18 00:28:52,321 - INFO -   Repeat 4/5
+2025-03-18 00:28:59,315 - INFO -   Repeat 5/5
+2025-03-18 00:29:04,801 - INFO - Processing gemma-2-27b, Q20
+2025-03-18 00:29:04,801 - INFO -   Repeat 1/5
+2025-03-18 00:29:05,891 - INFO -   Repeat 2/5
+2025-03-18 00:29:06,997 - INFO -   Repeat 3/5
+2025-03-18 00:29:08,084 - INFO -   Repeat 4/5
+2025-03-18 00:29:10,595 - INFO -   Repeat 5/5
+2025-03-18 00:29:11,729 - INFO - Saved results for gemma-2-27b to ./model_results/gemma-2-27b_results_20250318_002911.json
+2025-03-18 00:29:11,733 - INFO - Saved raw data to ./results/raw_results_20250318_002911.pkl and ./results/raw_results_20250318_002911.json
+2025-03-18 00:29:11,736 - INFO - Saved raw data to ./results/raw_results_20250318_002911.pkl and ./results/raw_results_20250318_002911.json
+2025-03-18 00:29:11,740 - INFO - Analyzing results from ./results/raw_results_20250318_002911.pkl
+2025-03-18 00:29:11,740 - INFO - Models: ['llama-3-1-8b', 'gemma-2-9b', 'gemma-2-27b']
+2025-03-18 00:29:11,740 - INFO - Questions: 20
+2025-03-18 00:29:11,970 - INFO - Saved distance matrix plot to ./analysis_20250318_002911/distance_matrix.png
+2025-03-18 00:29:12,065 - INFO - Saved mean standard deviation plot to ./analysis_20250318_002911/mean_stddev.png
+2025-03-18 00:29:12,127 - INFO - Saved RMS scatter plot to ./analysis_20250318_002911/rms_scatter.png
+2025-03-18 00:29:12,143 - INFO - Generated report at ./analysis_20250318_002911/analysis_report.md
