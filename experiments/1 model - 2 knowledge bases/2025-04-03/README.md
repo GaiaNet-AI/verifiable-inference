@@ -4,7 +4,7 @@
 
 This experiment evaluates how consistently a single language model (Gemma 2 9B) responds when queried against two distinct knowledge bases: **Paris** and **London**. Both knowledge bases were created using the same embedding model (**Nomic embed-text-v1.5-f16**).
 
-Each of the 20 factual questions is asked 25 times per knowledge base, and responses are embedded for semantic similarity analysis.
+Each of the 20 factual questions is asked 25 times per knowledge base. The questions are tailored to the Paris knowledge base, so the model should have matching search results for Paris but not for London.
 
 The experiment mode used is `knowledge_bases`.
 
